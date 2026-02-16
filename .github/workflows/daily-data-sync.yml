@@ -1,0 +1,76 @@
+name: Daily Data Sync
+
+on:
+  schedule:
+    # Daily 03:00 KST (18:00 UTC)
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dashboard-daily-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Python deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run sync
+        run: |
+          chmod +x run_realsync.command
+          /bin/zsh run_realsync.command
+
+      - name: Verify athlete count and max date
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const s = fs.readFileSync('index.js', 'utf8');
+          const start = s.indexOf('ma=['), end = s.indexOf(',Ko=()=>', start);
+          if (start < 0 || end < 0) throw new Error('ma block not found');
+          const arr = eval('(' + s.slice(start + 3, end) + ')');
+          if (!Array.isArray(arr)) throw new Error('ma is not an array');
+          if (arr.length !== 43) throw new Error(`Expected 43 athletes, got ${arr.length}`);
+          const dates = [];
+          for (const a of arr) {
+            for (const r of (a.recent_results || [])) if (r?.date) dates.push(r.date);
+          }
+          dates.sort();
+          const max = dates[dates.length - 1];
+          if (!max) throw new Error('No result dates found');
+          console.log('athletes_total=', arr.length);
+          console.log('max_event_date=', max);
+          NODE
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.js index.css index.html scripts/data/athletes.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: daily data sync"
+          git push
