@@ -87,22 +87,37 @@ function mergeResults(oldResults, newResults) {
 }
 
 function mapAthlete(oldAthlete, newAthlete) {
-  const mappedResults = (newAthlete.recent_results || []).map(mapResult);
-  const mergedResults = mergeResults(oldAthlete.recent_results || [], mappedResults);
+  const mappedResults = (newAthlete.recent_results || [])
+    .map(mapResult)
+    .sort((a, b) => String(b.date || "").localeCompare(String(a.date || "")));
   const latestPoints =
     mappedResults.find((r) => Number.isFinite(r.fis_points) && r.fis_points > 0)
       ?.fis_points ?? oldAthlete.fis_points ?? 0;
+  const gender = String(newAthlete.gender || oldAthlete.gender || "M")
+    .toUpperCase()
+    .slice(0, 1);
 
   return {
     ...oldAthlete,
+    name_ko: newAthlete.name_ko || oldAthlete.name_ko,
+    name_en: newAthlete.name_en || oldAthlete.name_en,
+    gender: gender === "F" ? "F" : "M",
+    sport: newAthlete.sport || oldAthlete.sport,
+    sport_display: newAthlete.sport_display || oldAthlete.sport_display,
+    team: newAthlete.team || oldAthlete.team || "KOR",
     fis_code: String(newAthlete.fis_code || oldAthlete.fis_code),
     fis_url: newAthlete.fis_url || oldAthlete.fis_url,
     birth_date: newAthlete.birth_date || oldAthlete.birth_date,
     birth_year: toNum(newAthlete.birth_year, oldAthlete.birth_year || null),
     age: toNum(newAthlete.age, oldAthlete.age || null),
     current_rank: toNum(newAthlete.current_rank, oldAthlete.current_rank || 0),
+    best_rank: toNum(newAthlete.best_rank, oldAthlete.best_rank || 0),
+    season_starts: toNum(
+      newAthlete.season_starts,
+      mappedResults.length || oldAthlete.season_starts || 0
+    ),
     fis_points: latestPoints,
-    recent_results: mergedResults,
+    recent_results: mappedResults,
   };
 }
 

@@ -69,6 +69,17 @@ class FISScraper:
         day, month, year = text.split('-')
         return f"{year}-{month}-{day}"
 
+    def _parse_gender_code(self, html_text):
+        if not html_text:
+            return None
+        m = re.search(r'"genderCode"\s*:\s*"([MFW])"', html_text)
+        if not m:
+            return None
+        code = m.group(1)
+        if code == "W":
+            return "F"
+        return code
+
     def _parse_results(self, soup):
         rows = soup.select('a.table-row')
         results = []
@@ -185,6 +196,7 @@ class FISScraper:
                 self.stats["hard_fail"] += 1
                 return None
                 
+            html_text = response.text
             soup = BeautifulSoup(response.content, 'html.parser')
             
             # Basic Extraction (Simulated/Simplified for Reliability)
@@ -200,6 +212,7 @@ class FISScraper:
                 name_text = f"Athlete {fis_code}"
 
             birth_date = self._parse_birthdate(soup)
+            gender_code = self._parse_gender_code(html_text)
             results = self._parse_results(soup)
 
             data = {
@@ -208,7 +221,7 @@ class FISScraper:
                 'sport_code': sector_code,
                 'name_en': name_text,
                 'birth_date': birth_date,
-                'gender': None,
+                'gender': gender_code,
                 'results': results
             }
 

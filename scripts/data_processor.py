@@ -10,8 +10,8 @@ class DataProcessor:
         self.sport_mapping = {
             "AL": "alpine_skiing",
             "SX": "ski_cross",
-            "MO": "freestyle_moguls",
-            "FS": "freestyle_park",
+            "MO": "moguls",
+            "FS": "freeski",
             "SB": "snowboard_park",
             "SBX": "snowboard_cross",
             "PSL": "snowboard_alpine",
@@ -22,8 +22,8 @@ class DataProcessor:
         self.sport_display = {
             "alpine_skiing": "Alpine Skiing",
             "ski_cross": "Ski Cross",
-            "freestyle_moguls": "Moguls",
-            "freestyle_park": "Freeski Park",
+            "moguls": "Moguls",
+            "freeski": "Freeski",
             "snowboard_park": "Snowboard Park",
             "snowboard_cross": "Snowboard Cross",
             "snowboard_alpine": "Snowboard Alpine",
@@ -95,12 +95,17 @@ class DataProcessor:
                         'discipline': r.get('discipline'),
                         'cup_points': r.get('cup_points')
                     })
-                if len(recent_results) >= 8:
+                if len(recent_results) >= 40:
                     break
 
             current_rank = numeric_ranks[0] if numeric_ranks else None
             best_rank = min(numeric_ranks) if numeric_ranks else None
             season_starts = len(results)
+            gender = athlete.get('gender') or existing.get('gender') or 'M'
+            if isinstance(gender, str):
+                gender = gender.upper().strip()[:1]
+            if gender not in ('M', 'F'):
+                gender = 'M'
             
             processed_athlete = {
                 'id': f"KOR{i+1:03d}",
@@ -109,6 +114,7 @@ class DataProcessor:
                 'birth_date': birth_date,
                 'birth_year': birth_year,
                 'age': age,
+                'gender': gender,
                 'sport': sport,
                 'sport_display': existing.get('sport_display') or self.sport_display.get(sport, sport),
                 'team': existing.get('team') or 'KOR',
