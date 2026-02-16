@@ -15,6 +15,7 @@ class FISScraper:
         cache_file="scripts/data/cache/scraper_cache.json",
         cache_ttl_seconds=86400,
         force_refresh=False,
+        allow_stale_fallback=False,
         max_retries=2,
         request_timeout=10,
         request_interval_sec=0.5,
@@ -22,6 +23,7 @@ class FISScraper:
         self.cache_file = cache_file
         self.cache_ttl_seconds = cache_ttl_seconds
         self.force_refresh = force_refresh
+        self.allow_stale_fallback = allow_stale_fallback
         self.max_retries = max_retries
         self.request_timeout = request_timeout
         self.request_interval_sec = request_interval_sec
@@ -176,7 +178,7 @@ class FISScraper:
             print(f"  [Fetching] {url}")
             response = self._request_with_retries(url)
             if response is None:
-                if cached:
+                if cached and self.allow_stale_fallback:
                     self.stats["stale_cache_fallback"] += 1
                     print(f"  [StaleCacheFallback] {url.split('competitorid=')[1]}")
                     return cached
@@ -211,7 +213,7 @@ class FISScraper:
             }
 
             # Parse failure fallback: keep previous usable payload rather than dropping athlete
-            if (not data.get("results")) and cached.get("results"):
+            if (not data.get("results")) and cached.get("results") and self.allow_stale_fallback:
                 self.stats["stale_cache_fallback"] += 1
                 print(f"  [ParseFallback] {url.split('competitorid=')[1]}")
                 return cached
@@ -229,7 +231,7 @@ class FISScraper:
             
         except Exception as e:
             print(f"  [Fail] {e}")
-            if cached:
+            if cached and self.allow_stale_fallback:
                 self.stats["stale_cache_fallback"] += 1
                 print(f"  [StaleCacheFallback] {url.split('competitorid=')[1]}")
                 return cached

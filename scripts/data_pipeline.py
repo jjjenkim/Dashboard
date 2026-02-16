@@ -19,6 +19,11 @@ def parse_args():
     parser.add_argument("--cache-ttl-seconds", type=int, default=86400, help="Cache freshness TTL in seconds")
     parser.add_argument("--max-retries", type=int, default=2, help="Retries per URL request")
     parser.add_argument("--request-timeout", type=int, default=10, help="HTTP request timeout in seconds")
+    parser.add_argument(
+        "--allow-stale-fallback",
+        action="store_true",
+        help="Allow using stale cached athlete data when source fetch/parse fails",
+    )
     parser.add_argument("--strict-min-success-rate", type=float, default=1.0, help="Minimum acceptable success rate")
     parser.add_argument("--stale-threshold-days", type=int, default=30, help="Mark athletes stale if latest result is older than this")
     parser.add_argument(
@@ -81,6 +86,7 @@ def main():
     scraper = FISScraper(
         cache_ttl_seconds=args.cache_ttl_seconds,
         force_refresh=args.force_refresh,
+        allow_stale_fallback=args.allow_stale_fallback,
         max_retries=args.max_retries,
         request_timeout=args.request_timeout,
     )
@@ -103,6 +109,7 @@ def main():
         "generated_at": datetime.now().isoformat(),
         "force_refresh": args.force_refresh,
         "cache_ttl_seconds": args.cache_ttl_seconds,
+        "allow_stale_fallback": args.allow_stale_fallback,
         "input_urls": len(urls),
         "scraped_profiles": len(raw_data),
         "success_rate": success_rate,
