@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-02-16T00:55:15.700639",
+    "last_updated": "2026-02-16T10:32:06.319449",
     "total_athletes": 43
   },
   "athletes": [
@@ -1237,104 +1237,15 @@
       "team": "KOR",
       "fis_code": "220950",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=220950&type=result",
-      "current_rank": 48,
-      "best_rank": 6,
-      "season_starts": 50,
+      "current_rank": null,
+      "best_rank": null,
+      "season_starts": 0,
       "medals": {
         "gold": 0,
         "silver": 0,
         "bronze": 0
       },
-      "recent_results": [
-        {
-          "date": "2026-01-31",
-          "event": "Parallel Giant Slalom",
-          "rank": 48,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Rogla",
-          "category": "World Cup",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2026-01-31",
-          "event": "Parallel Giant Slalom",
-          "rank": 48,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Rogla",
-          "category": "Qualification",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2026-01-23",
-          "event": "Parallel Giant Slalom",
-          "rank": 41,
-          "rank_status": null,
-          "points": 18.2,
-          "place": "Simonhöhe",
-          "category": "World Cup",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2026-01-23",
-          "event": "Parallel Giant Slalom",
-          "rank": 41,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Simonhöhe",
-          "category": "Qualification",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2026-01-21",
-          "event": "Parallel Giant Slalom",
-          "rank": 6,
-          "rank_status": null,
-          "points": 88.0,
-          "place": "Bansko",
-          "category": "European Cup",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": 40.0
-        },
-        {
-          "date": "2026-01-20",
-          "event": "Parallel Giant Slalom",
-          "rank": 14,
-          "rank_status": null,
-          "points": 52.2,
-          "place": "Bansko",
-          "category": "European Cup",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": 18.0
-        },
-        {
-          "date": "2026-01-18",
-          "event": "Parallel Giant Slalom",
-          "rank": null,
-          "rank_status": "DNF",
-          "points": 0.0,
-          "place": "Bansko",
-          "category": "World Cup",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2026-01-18",
-          "event": "Parallel Giant Slalom",
-          "rank": null,
-          "rank_status": "DNF",
-          "points": 0.0,
-          "place": "Bansko",
-          "category": "Qualification",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": null
-        }
-      ]
+      "recent_results": []
     },
     {
       "id": "KOR013",

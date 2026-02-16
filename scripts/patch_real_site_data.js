@@ -67,7 +67,14 @@ function mapResult(r) {
 }
 
 function resultKey(r) {
-  return [r.date || "", r.place || "", r.discipline || ""].join("|");
+  return [
+    r.date || "",
+    r.place || "",
+    r.category || "",
+    r.discipline || "",
+    String(r.rank ?? ""),
+    r.result_code || "",
+  ].join("|");
 }
 
 function mergeResults(oldResults, newResults) {
