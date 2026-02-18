@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-02-17T19:56:37.555958",
+    "last_updated": "2026-02-18T20:01:40.712769",
     "total_athletes": 43
   },
   "athletes": [
@@ -3290,7 +3290,7 @@
           "event": "Moguls",
           "rank": 24,
           "rank_status": null,
-          "points": 0.0,
+          "points": 70.0,
           "place": "Livigno",
           "category": "Olympic Winter Games",
           "discipline": "Moguls",
@@ -6977,456 +6977,15 @@
       "team": "KOR",
       "fis_code": "239112",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=239112&type=result",
-      "current_rank": 6,
-      "best_rank": 1,
-      "season_starts": 50,
+      "current_rank": null,
+      "best_rank": null,
+      "season_starts": 0,
       "medals": {
         "gold": 0,
         "silver": 0,
         "bronze": 0
       },
-      "recent_results": [
-        {
-          "date": "2026-02-13",
-          "event": "Halfpipe",
-          "rank": 6,
-          "rank_status": null,
-          "points": 410.2,
-          "place": "Livigno",
-          "category": "Olympic Winter Games",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2026-02-11",
-          "event": "Halfpipe",
-          "rank": 9,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Livigno",
-          "category": "Qualification",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2026-01-17",
-          "event": "Halfpipe",
-          "rank": 8,
-          "rank_status": null,
-          "points": 341.5,
-          "place": "Laax",
-          "category": "World Cup",
-          "discipline": "Halfpipe",
-          "cup_points": 32.0
-        },
-        {
-          "date": "2026-01-15",
-          "event": "Halfpipe",
-          "rank": 5,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Laax",
-          "category": "Qualification",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2026-01-03",
-          "event": "Halfpipe",
-          "rank": 13,
-          "rank_status": null,
-          "points": 119.5,
-          "place": "Calgary",
-          "category": "World Cup",
-          "discipline": "Halfpipe",
-          "cup_points": 20.0
-        },
-        {
-          "date": "2026-01-02",
-          "event": "Halfpipe",
-          "rank": 4,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Calgary",
-          "category": "Qualification",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2025-12-19",
-          "event": "Halfpipe",
-          "rank": 47,
-          "rank_status": null,
-          "points": 0.3,
-          "place": "Copper",
-          "category": "World Cup",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2025-12-17",
-          "event": "Halfpipe",
-          "rank": 23,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Copper",
-          "category": "Qualification",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2025-12-12",
-          "event": "Halfpipe",
-          "rank": 14,
-          "rank_status": null,
-          "points": 186.3,
-          "place": "Secret Garden",
-          "category": "World Cup",
-          "discipline": "Halfpipe",
-          "cup_points": 18.0
-        },
-        {
-          "date": "2025-12-10",
-          "event": "Halfpipe",
-          "rank": 5,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Secret Garden",
-          "category": "Qualification",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-12",
-          "event": "Halfpipe",
-          "rank": 6,
-          "rank_status": null,
-          "points": 118.8,
-          "place": "Yabuli Ski Resort",
-          "category": "Asian Winter Games",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-08",
-          "event": "Slopestyle",
-          "rank": 1,
-          "rank_status": null,
-          "points": 130.0,
-          "place": "Yabuli Ski Resort",
-          "category": "Asian Winter Games",
-          "discipline": "Slopestyle",
-          "cup_points": null
-        },
-        {
-          "date": "2025-01-18",
-          "event": "Halfpipe",
-          "rank": 12,
-          "rank_status": null,
-          "points": 235.5,
-          "place": "Laax",
-          "category": "World Cup",
-          "discipline": "Halfpipe",
-          "cup_points": 22.0
-        },
-        {
-          "date": "2025-01-17",
-          "event": "Halfpipe",
-          "rank": 3,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Laax",
-          "category": "Qualification",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2024-12-20",
-          "event": "Halfpipe",
-          "rank": 5,
-          "rank_status": null,
-          "points": 501.6,
-          "place": "Copper",
-          "category": "World Cup",
-          "discipline": "Halfpipe",
-          "cup_points": 45.0
-        },
-        {
-          "date": "2024-12-18",
-          "event": "Halfpipe",
-          "rank": 1,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Copper",
-          "category": "Qualification",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2024-12-08",
-          "event": "Halfpipe",
-          "rank": 7,
-          "rank_status": null,
-          "points": 373.3,
-          "place": "Secret Garden",
-          "category": "World Cup",
-          "discipline": "Halfpipe",
-          "cup_points": 36.0
-        },
-        {
-          "date": "2024-12-06",
-          "event": "Halfpipe",
-          "rank": 2,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Secret Garden",
-          "category": "Qualification",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2024-12-01",
-          "event": "Big Air",
-          "rank": 34,
-          "rank_status": null,
-          "points": 91.7,
-          "place": "Beijing",
-          "category": "World Cup",
-          "discipline": "Big Air",
-          "cup_points": null
-        },
-        {
-          "date": "2024-11-30",
-          "event": "Big Air",
-          "rank": 18,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Beijing",
-          "category": "Qualification",
-          "discipline": "Big Air",
-          "cup_points": null
-        },
-        {
-          "date": "2024-09-02",
-          "event": "Slopestyle",
-          "rank": 36,
-          "rank_status": null,
-          "points": 85.2,
-          "place": "Cardrona",
-          "category": "World Cup",
-          "discipline": "Slopestyle",
-          "cup_points": null
-        },
-        {
-          "date": "2024-08-31",
-          "event": "Slopestyle",
-          "rank": 22,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Cardrona",
-          "category": "Qualification",
-          "discipline": "Slopestyle",
-          "cup_points": null
-        },
-        {
-          "date": "2024-02-28",
-          "event": "Big Air",
-          "rank": 1,
-          "rank_status": null,
-          "points": 80.0,
-          "place": "Yongpyong",
-          "category": "National Championships",
-          "discipline": "Big Air",
-          "cup_points": null
-        },
-        {
-          "date": "2024-02-27",
-          "event": "Slopestyle",
-          "rank": 1,
-          "rank_status": null,
-          "points": 90.0,
-          "place": "Yongpyong",
-          "category": "National Championships",
-          "discipline": "Slopestyle",
-          "cup_points": null
-        },
-        {
-          "date": "2024-02-24",
-          "event": "Halfpipe",
-          "rank": 1,
-          "rank_status": null,
-          "points": 180.0,
-          "place": "Welli Hilli",
-          "category": "National Championships",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2024-02-01",
-          "event": "Halfpipe",
-          "rank": 1,
-          "rank_status": null,
-          "points": 290.0,
-          "place": "Gangwon/Welli Hilli",
-          "category": "Youth Olympic Winter Games",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2024-01-28",
-          "event": "Big Air",
-          "rank": null,
-          "rank_status": "DNS",
-          "points": 0.0,
-          "place": "Gangwon/Welli Hilli",
-          "category": "Youth Olympic Winter Games",
-          "discipline": "Big Air",
-          "cup_points": null
-        },
-        {
-          "date": "2024-01-27",
-          "event": "Big Air",
-          "rank": null,
-          "rank_status": "DNS",
-          "points": 0.0,
-          "place": "Gangwon/Welli Hilli",
-          "category": "Qualification",
-          "discipline": "Big Air",
-          "cup_points": null
-        },
-        {
-          "date": "2024-01-25",
-          "event": "Slopestyle",
-          "rank": 1,
-          "rank_status": null,
-          "points": 200.0,
-          "place": "Gangwon/Welli Hilli",
-          "category": "Youth Olympic Winter Games",
-          "discipline": "Slopestyle",
-          "cup_points": null
-        },
-        {
-          "date": "2024-01-20",
-          "event": "Halfpipe",
-          "rank": 7,
-          "rank_status": null,
-          "points": 384.1,
-          "place": "Laax",
-          "category": "World Cup",
-          "discipline": "Halfpipe",
-          "cup_points": 36.0
-        },
-        {
-          "date": "2023-12-16",
-          "event": "Halfpipe",
-          "rank": 2,
-          "rank_status": null,
-          "points": 827.4,
-          "place": "Copper Mountain",
-          "category": "World Cup",
-          "discipline": "Halfpipe",
-          "cup_points": 80.0
-        },
-        {
-          "date": "2023-12-14",
-          "event": "Halfpipe",
-          "rank": 3,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Copper Mountain",
-          "category": "Qualification",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2023-12-08",
-          "event": "Halfpipe",
-          "rank": 3,
-          "rank_status": null,
-          "points": 685.7,
-          "place": "Secret Garden",
-          "category": "World Cup",
-          "discipline": "Halfpipe",
-          "cup_points": 60.0
-        },
-        {
-          "date": "2023-12-06",
-          "event": "Halfpipe",
-          "rank": 6,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Secret Garden",
-          "category": "Qualification",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2023-12-02",
-          "event": "Big Air",
-          "rank": 6,
-          "rank_status": null,
-          "points": 435.2,
-          "place": "Beijing",
-          "category": "World Cup",
-          "discipline": "Big Air",
-          "cup_points": 40.0
-        },
-        {
-          "date": "2023-12-01",
-          "event": "Big Air",
-          "rank": 5,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Beijing",
-          "category": "Qualification",
-          "discipline": "Big Air",
-          "cup_points": null
-        },
-        {
-          "date": "2023-09-04",
-          "event": "Big Air",
-          "rank": 6,
-          "rank_status": null,
-          "points": 159.2,
-          "place": "Cardrona",
-          "category": "FIS Junior World Championships",
-          "discipline": "Big Air",
-          "cup_points": null
-        },
-        {
-          "date": "2023-09-02",
-          "event": "Big Air",
-          "rank": 4,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Cardrona",
-          "category": "Qualification",
-          "discipline": "Big Air",
-          "cup_points": null
-        },
-        {
-          "date": "2023-08-30",
-          "event": "Slopestyle",
-          "rank": 4,
-          "rank_status": null,
-          "points": 213.2,
-          "place": "Cardrona",
-          "category": "FIS Junior World Championships",
-          "discipline": "Slopestyle",
-          "cup_points": null
-        },
-        {
-          "date": "2023-08-28",
-          "event": "Slopestyle",
-          "rank": 1,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Cardrona",
-          "category": "Qualification",
-          "discipline": "Slopestyle",
-          "cup_points": null
-        }
-      ]
+      "recent_results": []
     },
     {
       "id": "KOR017",
@@ -9618,15 +9177,26 @@
       "team": "KOR",
       "fis_code": "261339",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=261339&type=result",
-      "current_rank": 3,
+      "current_rank": 12,
       "best_rank": 1,
-      "season_starts": 35,
+      "season_starts": 36,
       "medals": {
         "gold": 0,
         "silver": 0,
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-02-18",
+          "event": "Slopestyle",
+          "rank": 12,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Livigno",
+          "category": "Olympic Winter Games",
+          "discipline": "Slopestyle",
+          "cup_points": null
+        },
         {
           "date": "2026-02-15",
           "event": "Slopestyle",
@@ -12393,8 +11963,8 @@
       "team": "KOR",
       "fis_code": "221223",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=221223&type=result",
-      "current_rank": 73,
-      "best_rank": 1,
+      "current_rank": 23,
+      "best_rank": 2,
       "season_starts": 50,
       "medals": {
         "gold": 0,
@@ -12402,6 +11972,28 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-02-18",
+          "event": "Team Sprint F",
+          "rank": 23,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Milano Cortina",
+          "category": "Olympic Winter Games",
+          "discipline": "Team Sprint F",
+          "cup_points": null
+        },
+        {
+          "date": "2026-02-18",
+          "event": "Team Sprint F",
+          "rank": 23,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Milano Cortina",
+          "category": "Team Sprint Qualification",
+          "discipline": "Team Sprint F",
+          "cup_points": null
+        },
         {
           "date": "2026-02-12",
           "event": "10 km F",
@@ -12415,17 +12007,6 @@
         },
         {
           "date": "2026-02-10",
-          "event": "Sprint C Final Final",
-          "rank": null,
-          "rank_status": "DSQ",
-          "points": 0.0,
-          "place": "Milano Cortina",
-          "category": "Olympic Winter Games",
-          "discipline": "Sprint C Final Final",
-          "cup_points": null
-        },
-        {
-          "date": "2026-02-10",
           "event": "Sprint C Qual Qual",
           "rank": null,
           "rank_status": "DSQ",
@@ -12433,6 +12014,17 @@
           "place": "Milano Cortina",
           "category": "Sprint Qualification",
           "discipline": "Sprint C Qual Qual",
+          "cup_points": null
+        },
+        {
+          "date": "2026-02-10",
+          "event": "Sprint C Final Final",
+          "rank": null,
+          "rank_status": "DSQ",
+          "points": 0.0,
+          "place": "Milano Cortina",
+          "category": "Olympic Winter Games",
+          "discipline": "Sprint C Final Final",
           "cup_points": null
         },
         {
@@ -12459,17 +12051,6 @@
         },
         {
           "date": "2026-01-23",
-          "event": "Team Sprint F",
-          "rank": 22,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Goms",
-          "category": "World Cup",
-          "discipline": "Team Sprint F",
-          "cup_points": null
-        },
-        {
-          "date": "2026-01-23",
           "event": "Team Sprint Qualification F",
           "rank": 22,
           "rank_status": null,
@@ -12477,6 +12058,17 @@
           "place": "Goms",
           "category": "Team Sprint Qualification",
           "discipline": "Team Sprint Qualification F",
+          "cup_points": null
+        },
+        {
+          "date": "2026-01-23",
+          "event": "Team Sprint F",
+          "rank": 22,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Goms",
+          "category": "World Cup",
+          "discipline": "Team Sprint F",
           "cup_points": null
         },
         {
@@ -12745,17 +12337,6 @@
         },
         {
           "date": "2025-02-27",
-          "event": "SP  F Final",
-          "rank": 72,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Trondheim",
-          "category": "World Championships",
-          "discipline": "SP  F Final",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-27",
           "event": "SP  F Qual",
           "rank": 72,
           "rank_status": null,
@@ -12763,6 +12344,17 @@
           "place": "Trondheim",
           "category": "Sprint Qualification",
           "discipline": "SP  F Qual",
+          "cup_points": null
+        },
+        {
+          "date": "2025-02-27",
+          "event": "SP  F Final",
+          "rank": 72,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Trondheim",
+          "category": "World Championships",
+          "discipline": "SP  F Final",
           "cup_points": null
         },
         {
@@ -12819,28 +12411,6 @@
           "category": "Far East Cup",
           "discipline": "5 km F",
           "cup_points": 60.0
-        },
-        {
-          "date": "2025-01-24",
-          "event": "5 km C",
-          "rank": 1,
-          "rank_status": null,
-          "points": 106.55,
-          "place": "Alpensia Cross-Country Center",
-          "category": "Far East Cup",
-          "discipline": "5 km C",
-          "cup_points": 100.0
-        },
-        {
-          "date": "2025-01-09",
-          "event": "SP 1.2 km F Qual",
-          "rank": 1,
-          "rank_status": null,
-          "points": 468.37,
-          "place": "Alpensia Cross-Country Center",
-          "category": "National Championships",
-          "discipline": "SP 1.2 km F Qual",
-          "cup_points": null
         }
       ]
     },
@@ -12857,7 +12427,7 @@
       "team": "KOR",
       "fis_code": "162284",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=162284&type=result",
-      "current_rank": 80,
+      "current_rank": 23,
       "best_rank": 2,
       "season_starts": 50,
       "medals": {
@@ -12866,6 +12436,28 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-02-18",
+          "event": "Team Sprint F",
+          "rank": 23,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Milano Cortina",
+          "category": "Olympic Winter Games",
+          "discipline": "Team Sprint F",
+          "cup_points": null
+        },
+        {
+          "date": "2026-02-18",
+          "event": "Team Sprint F",
+          "rank": 23,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Milano Cortina",
+          "category": "Team Sprint Qualification",
+          "discipline": "Team Sprint F",
+          "cup_points": null
+        },
         {
           "date": "2026-02-12",
           "event": "10 km F",
@@ -12879,17 +12471,6 @@
         },
         {
           "date": "2026-02-10",
-          "event": "Sprint C Qual Qual",
-          "rank": null,
-          "rank_status": "DSQ",
-          "points": 0.0,
-          "place": "Milano Cortina",
-          "category": "Sprint Qualification",
-          "discipline": "Sprint C Qual Qual",
-          "cup_points": null
-        },
-        {
-          "date": "2026-02-10",
           "event": "Sprint C Final Final",
           "rank": null,
           "rank_status": "DSQ",
@@ -12897,6 +12478,17 @@
           "place": "Milano Cortina",
           "category": "Olympic Winter Games",
           "discipline": "Sprint C Final Final",
+          "cup_points": null
+        },
+        {
+          "date": "2026-02-10",
+          "event": "Sprint C Qual Qual",
+          "rank": null,
+          "rank_status": "DSQ",
+          "points": 0.0,
+          "place": "Milano Cortina",
+          "category": "Sprint Qualification",
+          "discipline": "Sprint C Qual Qual",
           "cup_points": null
         },
         {
@@ -13000,17 +12592,6 @@
         },
         {
           "date": "2025-12-05",
-          "event": "Sprint C Qual Qual",
-          "rank": 71,
-          "rank_status": null,
-          "points": 225.02,
-          "place": "Trondheim",
-          "category": "Sprint Qualification",
-          "discipline": "Sprint C Qual Qual",
-          "cup_points": null
-        },
-        {
-          "date": "2025-12-05",
           "event": "Sprint C Final Final",
           "rank": 71,
           "rank_status": null,
@@ -13018,6 +12599,17 @@
           "place": "Trondheim",
           "category": "World Cup",
           "discipline": "Sprint C Final Final",
+          "cup_points": null
+        },
+        {
+          "date": "2025-12-05",
+          "event": "Sprint C Qual Qual",
+          "rank": 71,
+          "rank_status": null,
+          "points": 225.02,
+          "place": "Trondheim",
+          "category": "Sprint Qualification",
+          "discipline": "Sprint C Qual Qual",
           "cup_points": null
         },
         {
@@ -13121,17 +12713,6 @@
         },
         {
           "date": "2025-03-22",
-          "event": "Team Sprint Qualification F",
-          "rank": 23,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Lahti",
-          "category": "Team Sprint Qualification",
-          "discipline": "Team Sprint Qualification F",
-          "cup_points": null
-        },
-        {
-          "date": "2025-03-22",
           "event": "Team Sprint F",
           "rank": 23,
           "rank_status": null,
@@ -13139,6 +12720,17 @@
           "place": "Lahti",
           "category": "World Cup",
           "discipline": "Team Sprint F",
+          "cup_points": null
+        },
+        {
+          "date": "2025-03-22",
+          "event": "Team Sprint Qualification F",
+          "rank": 23,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Lahti",
+          "category": "Team Sprint Qualification",
+          "discipline": "Team Sprint Qualification F",
           "cup_points": null
         },
         {
@@ -13181,7 +12773,7 @@
           "rank_status": null,
           "points": 0.0,
           "place": "Trondheim",
-          "category": "Team Sprint Qualification",
+          "category": "World Championships",
           "discipline": "C",
           "cup_points": null
         },
@@ -13192,7 +12784,7 @@
           "rank_status": null,
           "points": 0.0,
           "place": "Trondheim",
-          "category": "World Championships",
+          "category": "Team Sprint Qualification",
           "discipline": "C",
           "cup_points": null
         },
@@ -13253,17 +12845,6 @@
         },
         {
           "date": "2025-02-08",
-          "event": "SP  C Final",
-          "rank": 13,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Harbin",
-          "category": "FIS",
-          "discipline": "SP  C Final",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-08",
           "event": "SP  C Qual",
           "rank": 13,
           "rank_status": null,
@@ -13271,6 +12852,17 @@
           "place": "Harbin",
           "category": "FIS",
           "discipline": "SP  C Qual",
+          "cup_points": null
+        },
+        {
+          "date": "2025-02-08",
+          "event": "SP  C Final",
+          "rank": 13,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Harbin",
+          "category": "FIS",
+          "discipline": "SP  C Final",
           "cup_points": null
         },
         {
@@ -13283,28 +12875,6 @@
           "category": "Far East Cup",
           "discipline": "5 km F",
           "cup_points": 80.0
-        },
-        {
-          "date": "2025-01-24",
-          "event": "5 km C",
-          "rank": 3,
-          "rank_status": null,
-          "points": 139.16,
-          "place": "Alpensia Cross-Country Center",
-          "category": "Far East Cup",
-          "discipline": "5 km C",
-          "cup_points": 60.0
-        },
-        {
-          "date": "2025-01-09",
-          "event": "SP 1.2 km F Final",
-          "rank": 2,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Alpensia Cross-Country Center",
-          "category": "National Championships",
-          "discipline": "SP 1.2 km F Final",
-          "cup_points": null
         }
       ]
     },
@@ -17507,6 +17077,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-02-18",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Cortina d' Ampezzo",
+          "category": "Olympic Winter Games",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-02-15",
           "event": "Giant Slalom",
           "rank": 42,
@@ -17933,17 +17514,6 @@
           "place": "Yongpyong Resort",
           "category": "National Championships",
           "discipline": "Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-01-22",
-          "event": "Giant Slalom",
-          "rank": 4,
-          "rank_status": null,
-          "points": 36.23,
-          "place": "Yongpyong Resort",
-          "category": "National Championships",
-          "discipline": "Giant Slalom",
           "cup_points": null
         }
       ]
@@ -18435,6 +18005,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-02-18",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Cortina d' Ampezzo",
+          "category": "Olympic Winter Games",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-02-15",
           "event": "Giant Slalom",
           "rank": null,
@@ -18860,17 +18441,6 @@
           "points": 0.0,
           "place": "Akan",
           "category": "FIS",
-          "discipline": "Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-03-20",
-          "event": "Slalom",
-          "rank": 27,
-          "rank_status": null,
-          "points": 72.74,
-          "place": "Akan",
-          "category": "National Junior Championships",
           "discipline": "Slalom",
           "cup_points": null
         }
