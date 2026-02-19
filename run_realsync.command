@@ -19,7 +19,7 @@ command -v python3 >/dev/null
 command -v node >/dev/null
 command -v shasum >/dev/null
 
-echo "[STEP] data pipeline"
+echo "[STEP] data pipeline (v7_복구 local scripts)"
 python3 "$SCRIPT_DIR/data_pipeline.py" \
   --force-refresh \
   --cache-ttl-seconds 0 \
@@ -28,10 +28,14 @@ python3 "$SCRIPT_DIR/data_pipeline.py" \
   --strict-min-success-rate 1.0 \
   --health-output "$HEALTH_FILE"
 
-echo "[STEP] patch index.js data block"
+echo "[STEP] patch real-site index.js data block"
 node "$SCRIPT_DIR/patch_real_site_data.js" \
   --target "$ROOT_DIR/index.js" \
   --data "$SCRIPT_DIR/data/athletes.json"
+
+echo "[STEP] data consistency audit (43 athletes)"
+node "$SCRIPT_DIR/audit_results_consistency.js" \
+  --target "$ROOT_DIR/index.js"
 
 echo "[STEP] refresh index.html with hash-busted asset urls"
 JS_HASH="$(shasum -a 256 "$ROOT_DIR/index.js" | awk '{print $1}')"
@@ -65,6 +69,12 @@ TARGET_MAX_DATE="$(node -e 'const fs=require("fs");const s=fs.readFileSync(proce
   echo "target_index_css_sha256=$TARGET_CSS_HASH"
   echo "target_index_html_sha256=$TARGET_HTML_HASH"
   echo "target_max_event_date=$TARGET_MAX_DATE"
+  echo "target_index_js_path=$ROOT_DIR/index.js"
+  echo "target_index_css_path=$ROOT_DIR/index.css"
+  echo "target_index_html_path=$ROOT_DIR/index.html"
 } | tee "$HASH_FILE"
 
 echo "[DONE] real-site sync complete"
+echo "[LOG] $LOG_FILE"
+echo "[HASH] $HASH_FILE"
+echo "[HEALTH] $HEALTH_FILE"

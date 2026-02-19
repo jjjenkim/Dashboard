@@ -41,6 +41,7 @@ function toNum(v, fallback = 0) {
 
 function categoryCode(category = "") {
   const c = String(category).toLowerCase();
+  if (c.includes("qualif") || c === "qua") return "QUA";
   if (c.includes("world cup")) return "WC";
   if (c.includes("world championships")) return "WSC";
   if (c.includes("olympic")) return "OWG";
@@ -66,58 +67,88 @@ function mapResult(r) {
   };
 }
 
+function normalizedCategoryCode(r) {
+  return r.category_code || categoryCode(r.category || r.category_name || "");
+}
+
+function normalizeResult(r) {
+  return {
+    ...r,
+    category_code: normalizedCategoryCode(r),
+  };
+}
+
+function stagePriority(text = "") {
+  const t = String(text).trim().toLowerCase();
+  if (t.includes("qualif") || t === "qua") return 0;
+  if (t.includes("final")) return 2;
+  return 1;
+}
+
+function rankScore(r) {
+  const rank = Number(r.rank);
+  if (Number.isFinite(rank) && rank > 0) return -rank;
+  return -9999;
+}
+
 function resultKey(r) {
+  const category_code = normalizedCategoryCode(r);
   return [
     r.date || "",
     r.place || "",
-    r.category || "",
     r.discipline || "",
-    String(r.rank ?? ""),
+    r.category || "",
+    category_code,
+    Number.isFinite(Number(r.rank)) ? Number(r.rank) : "",
     r.result_code || "",
+    Number.isFinite(Number(r.fis_points)) ? Number(r.fis_points) : "",
+    Number.isFinite(Number(r.cup_points)) ? Number(r.cup_points) : "",
   ].join("|");
 }
 
 function mergeResults(oldResults, newResults) {
   const map = new Map();
-  for (const r of oldResults || []) map.set(resultKey(r), r);
-  for (const r of newResults || []) map.set(resultKey(r), r);
-  return [...map.values()].sort((a, b) =>
-    String(b.date || "").localeCompare(String(a.date || ""))
-  );
+  for (const r of oldResults || []) {
+    const normalized = normalizeResult(r);
+    map.set(resultKey(normalized), normalized);
+  }
+  for (const r of newResults || []) {
+    const normalized = normalizeResult(r);
+    map.set(resultKey(normalized), normalized);
+  }
+  return [...map.values()].sort((a, b) => {
+    const dateCmp = String(b.date || "").localeCompare(String(a.date || ""));
+    if (dateCmp !== 0) return dateCmp;
+
+    const stageCmp = stagePriority(b.category || b.category_name || "") - stagePriority(a.category || a.category_name || "");
+    if (stageCmp !== 0) return stageCmp;
+
+    return rankScore(b) - rankScore(a);
+  });
 }
 
 function mapAthlete(oldAthlete, newAthlete) {
-  const mappedResults = (newAthlete.recent_results || [])
-    .map(mapResult)
-    .sort((a, b) => String(b.date || "").localeCompare(String(a.date || "")));
+  const mappedResults = (newAthlete.recent_results || []).map(mapResult);
+  const mergedResults = mergeResults(oldAthlete.recent_results || [], mappedResults);
   const latestPoints =
     mappedResults.find((r) => Number.isFinite(r.fis_points) && r.fis_points > 0)
       ?.fis_points ?? oldAthlete.fis_points ?? 0;
-  const gender = String(newAthlete.gender || oldAthlete.gender || "M")
-    .toUpperCase()
-    .slice(0, 1);
 
   return {
     ...oldAthlete,
     name_ko: newAthlete.name_ko || oldAthlete.name_ko,
     name_en: newAthlete.name_en || oldAthlete.name_en,
-    gender: gender === "F" ? "F" : "M",
     sport: newAthlete.sport || oldAthlete.sport,
     sport_display: newAthlete.sport_display || oldAthlete.sport_display,
-    team: newAthlete.team || oldAthlete.team || "KOR",
+    team: newAthlete.team || oldAthlete.team,
     fis_code: String(newAthlete.fis_code || oldAthlete.fis_code),
     fis_url: newAthlete.fis_url || oldAthlete.fis_url,
     birth_date: newAthlete.birth_date || oldAthlete.birth_date,
     birth_year: toNum(newAthlete.birth_year, oldAthlete.birth_year || null),
     age: toNum(newAthlete.age, oldAthlete.age || null),
     current_rank: toNum(newAthlete.current_rank, oldAthlete.current_rank || 0),
-    best_rank: toNum(newAthlete.best_rank, oldAthlete.best_rank || 0),
-    season_starts: toNum(
-      newAthlete.season_starts,
-      mappedResults.length || oldAthlete.season_starts || 0
-    ),
     fis_points: latestPoints,
-    recent_results: mappedResults,
+    recent_results: mergedResults,
   };
 }
 
