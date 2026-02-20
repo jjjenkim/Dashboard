@@ -231,8 +231,6 @@ process.stdout.write(JSON.stringify(out));
                         'discipline': r.get('discipline'),
                         'cup_points': r.get('cup_points')
                     })
-                if len(recent_results) >= 8:
-                    break
 
             current_rank = numeric_ranks[0] if numeric_ranks else None
             best_rank = min(numeric_ranks) if numeric_ranks else None

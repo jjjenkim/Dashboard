@@ -106,13 +106,9 @@ function resultKey(r) {
   ].join("|");
 }
 
-function mergeResults(oldResults, newResults) {
+function dedupeAndSortResults(results) {
   const map = new Map();
-  for (const r of oldResults || []) {
-    const normalized = normalizeResult(r);
-    map.set(resultKey(normalized), normalized);
-  }
-  for (const r of newResults || []) {
+  for (const r of results || []) {
     const normalized = normalizeResult(r);
     map.set(resultKey(normalized), normalized);
   }
@@ -129,9 +125,9 @@ function mergeResults(oldResults, newResults) {
 
 function mapAthlete(oldAthlete, newAthlete) {
   const mappedResults = (newAthlete.recent_results || []).map(mapResult);
-  const mergedResults = mergeResults(oldAthlete.recent_results || [], mappedResults);
+  const nextResults = dedupeAndSortResults(mappedResults);
   const latestPoints =
-    mappedResults.find((r) => Number.isFinite(r.fis_points) && r.fis_points > 0)
+    nextResults.find((r) => Number.isFinite(r.fis_points) && r.fis_points > 0)
       ?.fis_points ?? oldAthlete.fis_points ?? 0;
 
   return {
@@ -148,7 +144,8 @@ function mapAthlete(oldAthlete, newAthlete) {
     age: toNum(newAthlete.age, oldAthlete.age || null),
     current_rank: toNum(newAthlete.current_rank, oldAthlete.current_rank || 0),
     fis_points: latestPoints,
-    recent_results: mergedResults,
+    // Always replace with latest pipeline data so every page/modal shares one canonical source.
+    recent_results: nextResults,
   };
 }
 
