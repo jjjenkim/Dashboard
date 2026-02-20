@@ -124,6 +124,12 @@ def build_rows(doc: Dict, sync_run_id: str) -> Tuple[List[Dict], List[Dict], str
                 }
             )
 
+    # Deduplicate same logical result rows within one sync batch.
+    dedup = {}
+    for row in result_rows:
+        dedup[row["result_uid"]] = row
+    result_rows = list(dedup.values())
+
     return athlete_rows, result_rows, max_date
 
 
