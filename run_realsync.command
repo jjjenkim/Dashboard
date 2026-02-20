@@ -37,6 +37,16 @@ echo "[STEP] data consistency audit (43 athletes)"
 node "$SCRIPT_DIR/audit_results_consistency.js" \
   --target "$ROOT_DIR/index.js"
 
+if [ -n "${SUPABASE_URL:-}" ] && [ -n "${SUPABASE_SERVICE_ROLE_KEY:-}" ]; then
+  echo "[STEP] sync Supabase tables"
+  python3 "$SCRIPT_DIR/supabase_sync.py" \
+    --data "$SCRIPT_DIR/data/athletes.json" \
+    --health "$HEALTH_FILE" \
+    --source "run_realsync.command"
+else
+  echo "[STEP] skip Supabase sync (missing SUPABASE_URL/SUPABASE_SERVICE_ROLE_KEY)"
+fi
+
 echo "[STEP] refresh index.html with hash-busted asset urls"
 JS_HASH="$(shasum -a 256 "$ROOT_DIR/index.js" | awk '{print $1}')"
 CSS_HASH="$(shasum -a 256 "$ROOT_DIR/index.css" | awk '{print $1}')"
