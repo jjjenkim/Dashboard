@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-02-19T19:52:47.881773",
+    "last_updated": "2026-02-20T18:34:05.031711",
     "total_athletes": 43
   },
   "athletes": [
@@ -16,7 +16,7 @@
       "team": "Freestyle Ski Team",
       "fis_code": "235622",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=FS&competitorid=235622&type=result",
-      "current_rank": 19,
+      "current_rank": 10,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -25,6 +25,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-02-20",
+          "event": "Freeski Halfpipe",
+          "rank": 10,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Livigno",
+          "category": "Qualification",
+          "discipline": "Freeski Halfpipe",
+          "cup_points": null
+        },
         {
           "date": "2025-12-20",
           "event": "Freeski Halfpipe",
@@ -101,17 +112,6 @@
           "category": "World Cup",
           "discipline": "Freeski Halfpipe",
           "cup_points": 32.0
-        },
-        {
-          "date": "2025-01-31",
-          "event": "Freeski Halfpipe",
-          "rank": 5,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Aspen",
-          "category": "Qualification",
-          "discipline": "Freeski Halfpipe",
-          "cup_points": null
         }
       ]
     },
@@ -127,7 +127,7 @@
       "team": "Freestyle Ski Team",
       "fis_code": "239278",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=FS&competitorid=239278&type=result",
-      "current_rank": 2,
+      "current_rank": 22,
       "best_rank": 2,
       "season_starts": 50,
       "medals": {
@@ -136,6 +136,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-02-20",
+          "event": "Freeski Halfpipe",
+          "rank": 22,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Livigno",
+          "category": "Qualification",
+          "discipline": "Freeski Halfpipe",
+          "cup_points": null
+        },
         {
           "date": "2026-02-04",
           "event": "Freeski Halfpipe",
@@ -212,17 +223,6 @@
           "category": "Qualification",
           "discipline": "Freeski Halfpipe",
           "cup_points": null
-        },
-        {
-          "date": "2025-02-18",
-          "event": "Freeski Halfpipe",
-          "rank": 8,
-          "rank_status": null,
-          "points": 3.7,
-          "place": "Phoenix Pyeongchang",
-          "category": "National Championships",
-          "discipline": "Freeski Halfpipe",
-          "cup_points": null
         }
       ]
     },
@@ -238,7 +238,7 @@
       "team": "Freestyle Ski Team",
       "fis_code": "233691",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=FS&competitorid=233691&type=result",
-      "current_rank": 6,
+      "current_rank": 2,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -247,6 +247,28 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-02-20",
+          "event": "Freeski Big Air",
+          "rank": 2,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Phoenix Park",
+          "category": "National Championships",
+          "discipline": "Freeski Big Air",
+          "cup_points": null
+        },
+        {
+          "date": "2026-02-19",
+          "event": "Freeski Slopestyle",
+          "rank": 3,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Yongpyong Resort",
+          "category": "National Championships",
+          "discipline": "Freeski Slopestyle",
+          "cup_points": null
+        },
         {
           "date": "2026-02-10",
           "event": "Freeski Slopestyle",
@@ -310,28 +332,6 @@
           "points": 12.9,
           "place": "Laax",
           "category": "European Cup Premium",
-          "discipline": "Freeski Slopestyle",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-25",
-          "event": "Freeski Big Air",
-          "rank": 1,
-          "rank_status": null,
-          "points": 50.0,
-          "place": "Yongpyong",
-          "category": "National Championships",
-          "discipline": "Freeski Big Air",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-24",
-          "event": "Freeski Slopestyle",
-          "rank": 2,
-          "rank_status": null,
-          "points": 39.6,
-          "place": "Yongpyong",
-          "category": "National Championships",
           "discipline": "Freeski Slopestyle",
           "cup_points": null
         }
@@ -460,7 +460,7 @@
       "team": "Freestyle Ski Team",
       "fis_code": "235623",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=FS&competitorid=235623&type=result",
-      "current_rank": 15,
+      "current_rank": 20,
       "best_rank": 15,
       "season_starts": 50,
       "medals": {
@@ -469,6 +469,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-02-19",
+          "event": "Freeski Halfpipe",
+          "rank": 20,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Livigno",
+          "category": "Qualification",
+          "discipline": "Freeski Halfpipe",
+          "cup_points": null
+        },
         {
           "date": "2026-01-10",
           "event": "Freeski Halfpipe",
@@ -545,17 +556,6 @@
           "category": "World Cup",
           "discipline": "Freeski Halfpipe",
           "cup_points": 13.0
-        },
-        {
-          "date": "2025-12-11",
-          "event": "Freeski Halfpipe",
-          "rank": 18,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Secret Garden",
-          "category": "Qualification",
-          "discipline": "Freeski Halfpipe",
-          "cup_points": null
         }
       ]
     },
