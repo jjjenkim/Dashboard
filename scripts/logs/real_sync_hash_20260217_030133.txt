@@ -1,8 +1,0 @@
-timestamp=20260217_030133
-target_index_js_sha256=83e5184b6b09b57abe1dc9dd14b69d9932cc5e1ff82cdd09fccbb4b3722e6bc8
-target_index_css_sha256=ae6bea22ff78eff2f9aaa7fbab3d4877975557b51042835a65b0afff262cc3f2
-target_index_html_sha256=94f108c021f59c91ca645f4b51a67ae77b9746d80de361804cac4a0245c26ef0
-target_max_event_date=2026-02-16
-target_index_js_path=/Users/jenkim/Downloads/05_프로젝트_개발/2026_Antigravity/projects/team-korea-winter-2025-26_20260123/V6/v7_복구/index.js
-target_index_css_path=/Users/jenkim/Downloads/05_프로젝트_개발/2026_Antigravity/projects/team-korea-winter-2025-26_20260123/V6/v7_복구/index.css
-target_index_html_path=/Users/jenkim/Downloads/05_프로젝트_개발/2026_Antigravity/projects/team-korea-winter-2025-26_20260123/V6/v7_복구/index.html
