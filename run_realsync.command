@@ -47,7 +47,7 @@ cat > "$ROOT_DIR/index.html" <<HTML
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="./vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>v6</title>
+    <title>스키스노보드 대표팀 대시보드</title>
     <script type="module" crossorigin src="./index.js?v=${JS_HASH}"></script>
     <link rel="stylesheet" crossorigin href="./index.css?v=${CSS_HASH}">
   </head>

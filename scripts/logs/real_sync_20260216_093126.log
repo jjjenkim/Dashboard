@@ -1,0 +1,77 @@
+[START] 2026-02-16 09:31:26
+[INFO] ROOT_DIR=/tmp/v7_real_site
+[STEP] data pipeline (v7_복구 local scripts)
+🚀 Team Korea Data Pipeline (V6 Agent System)
+=============================================
+📋 Found 43 athlete URLs.
+🔍 Agent A: Scraping 43 athletes...
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=FS&competitorid=235622&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=FS&competitorid=239278&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=FS&competitorid=233691&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=FS&competitorid=203633&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=FS&competitorid=235623&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=FS&competitorid=229480&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=FS&competitorid=252896&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=FS&competitorid=258758&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=163744&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=111837&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=188938&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=220950&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=188936&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=156415&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=229485&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=239112&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=261333&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=261977&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=264594&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=212759&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=239111&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=261339&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=JP&competitorid=10064&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=JP&competitorid=270266&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=229479&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=188923&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=229490&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=136287&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=154934&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=221223&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=162284&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=212563&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=195562&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=93945&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=154866&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=163737&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=163740&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=189170&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=188824&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=203604&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=177571&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=263315&type=result
+  [Fetching] https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=261321&type=result
+📊 Scraper stats: {'requested': 43, 'fetched': 43, 'cache_hit': 0, 'stale_cache_fallback': 0, 'hard_fail': 0}
+✓ Agent A finished: 43 profiles collected.
+📈 Success rate: 100.00%
+⚙️ Agent B: Processing data...
+✅ Agent B: Data pushed to /tmp/v7_real_site/scripts/data/athletes.json (43 records)
+🩺 Health report saved: /tmp/v7_real_site/scripts/logs/real_sync_health_20260216_093126.json
+=============================================
+✅ Pipeline Complete. V6 Dashboard Data Updated.
+[STEP] patch real-site index.js data block
+backup=/tmp/v7_real_site/index.js.bak_1771201961094
+athletes=43
+updated_athletes=43
+result_count=1969
+max_event_date=2026-02-15
+[STEP] record hashes
+[eval]:1
+const fs=require(\"fs\");const s=fs.readFileSync(process.argv[1],\"utf8\");const m=[...s.matchAll(/\"date\":\"(\\d{4}-\\d{2}-\\d{2})\"/g)].map(x=>x[1]);m.sort();process.stdout.write(m[m.length-1]||\"\")
+                 ^
+Expected unicode escape
+
+SyntaxError: Invalid or unexpected token
+    at makeContextifyScript (node:internal/vm:194:14)
+    at compileScript (node:internal/process/execution:388:10)
+    at evalTypeScript (node:internal/process/execution:260:22)
+    at node:internal/main/eval_string:71:3
+
+Node.js v24.12.0

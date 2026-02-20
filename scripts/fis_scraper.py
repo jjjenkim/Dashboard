@@ -15,7 +15,6 @@ class FISScraper:
         cache_file="scripts/data/cache/scraper_cache.json",
         cache_ttl_seconds=86400,
         force_refresh=False,
-        allow_stale_fallback=False,
         max_retries=2,
         request_timeout=10,
         request_interval_sec=0.5,
@@ -23,7 +22,6 @@ class FISScraper:
         self.cache_file = cache_file
         self.cache_ttl_seconds = cache_ttl_seconds
         self.force_refresh = force_refresh
-        self.allow_stale_fallback = allow_stale_fallback
         self.max_retries = max_retries
         self.request_timeout = request_timeout
         self.request_interval_sec = request_interval_sec
@@ -68,17 +66,6 @@ class FISScraper:
             return None
         day, month, year = text.split('-')
         return f"{year}-{month}-{day}"
-
-    def _parse_gender_code(self, html_text):
-        if not html_text:
-            return None
-        m = re.search(r'"genderCode"\s*:\s*"([MFW])"', html_text)
-        if not m:
-            return None
-        code = m.group(1)
-        if code == "W":
-            return "F"
-        return code
 
     def _parse_results(self, soup):
         rows = soup.select('a.table-row')
@@ -189,14 +176,13 @@ class FISScraper:
             print(f"  [Fetching] {url}")
             response = self._request_with_retries(url)
             if response is None:
-                if cached and self.allow_stale_fallback:
+                if cached:
                     self.stats["stale_cache_fallback"] += 1
                     print(f"  [StaleCacheFallback] {url.split('competitorid=')[1]}")
                     return cached
                 self.stats["hard_fail"] += 1
                 return None
                 
-            html_text = response.text
             soup = BeautifulSoup(response.content, 'html.parser')
             
             # Basic Extraction (Simulated/Simplified for Reliability)
@@ -212,7 +198,6 @@ class FISScraper:
                 name_text = f"Athlete {fis_code}"
 
             birth_date = self._parse_birthdate(soup)
-            gender_code = self._parse_gender_code(html_text)
             results = self._parse_results(soup)
 
             data = {
@@ -221,12 +206,12 @@ class FISScraper:
                 'sport_code': sector_code,
                 'name_en': name_text,
                 'birth_date': birth_date,
-                'gender': gender_code,
+                'gender': None,
                 'results': results
             }
 
             # Parse failure fallback: keep previous usable payload rather than dropping athlete
-            if (not data.get("results")) and cached.get("results") and self.allow_stale_fallback:
+            if (not data.get("results")) and cached.get("results"):
                 self.stats["stale_cache_fallback"] += 1
                 print(f"  [ParseFallback] {url.split('competitorid=')[1]}")
                 return cached
@@ -244,7 +229,7 @@ class FISScraper:
             
         except Exception as e:
             print(f"  [Fail] {e}")
-            if cached and self.allow_stale_fallback:
+            if cached:
                 self.stats["stale_cache_fallback"] += 1
                 print(f"  [StaleCacheFallback] {url.split('competitorid=')[1]}")
                 return cached

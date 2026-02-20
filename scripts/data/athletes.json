@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-02-20T18:34:05.031711",
+    "last_updated": "2026-02-21T06:47:41.301406",
     "total_athletes": 43
   },
   "athletes": [
@@ -16,7 +16,7 @@
       "team": "Freestyle Ski Team",
       "fis_code": "235622",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=FS&competitorid=235622&type=result",
-      "current_rank": 10,
+      "current_rank": 12,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -25,6 +25,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-02-20",
+          "event": "Freeski Halfpipe",
+          "rank": 12,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Livigno",
+          "category": "Olympic Winter Games",
+          "discipline": "Freeski Halfpipe",
+          "cup_points": null
+        },
         {
           "date": "2026-02-20",
           "event": "Freeski Halfpipe",
@@ -101,17 +112,6 @@
           "category": "Asian Winter Games",
           "discipline": "Freeski Halfpipe",
           "cup_points": null
-        },
-        {
-          "date": "2025-02-02",
-          "event": "Freeski Halfpipe",
-          "rank": 8,
-          "rank_status": null,
-          "points": 340.6,
-          "place": "Aspen",
-          "category": "World Cup",
-          "discipline": "Freeski Halfpipe",
-          "cup_points": 32.0
         }
       ]
     },
@@ -136,6 +136,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-02-20",
+          "event": "Freeski Halfpipe",
+          "rank": 22,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Livigno",
+          "category": "Olympic Winter Games",
+          "discipline": "Freeski Halfpipe",
+          "cup_points": null
+        },
         {
           "date": "2026-02-20",
           "event": "Freeski Halfpipe",
@@ -210,17 +221,6 @@
           "points": 13.7,
           "place": "Engadin",
           "category": "World Championships",
-          "discipline": "Freeski Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2025-03-28",
-          "event": "Freeski Halfpipe",
-          "rank": 21,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Engadin",
-          "category": "Qualification",
           "discipline": "Freeski Halfpipe",
           "cup_points": null
         }

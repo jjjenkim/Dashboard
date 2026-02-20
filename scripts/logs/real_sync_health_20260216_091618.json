@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-02-16T09:17:24.836702",
+  "force_refresh": true,
+  "cache_ttl_seconds": 0,
+  "input_urls": 43,
+  "scraped_profiles": 0,
+  "success_rate": 0.0,
+  "scraper_stats": {
+    "requested": 43,
+    "fetched": 0,
+    "cache_hit": 0,
+    "stale_cache_fallback": 0,
+    "hard_fail": 43
+  },
+  "freshness": {
+    "max_event_date": null,
+    "min_latest_per_athlete": null,
+    "athletes_with_results": 0,
+    "total_events": 0,
+    "stale_threshold_days": 30,
+    "stale_athletes_count": 0,
+    "stale_athletes_preview": []
+  },
+  "output_path": "/Users/jenkim/Downloads/05_프로젝트_개발/2026_Antigravity/projects/team-korea-winter-2025-26_20260123/V6/v7_복구/scripts/data/athletes.json",
+  "strict_min_success_rate": 1.0,
+  "passed": false
+}
