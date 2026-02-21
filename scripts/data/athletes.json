@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-02-20T23:07:26.271326",
+    "last_updated": "2026-02-21T18:21:53.995342",
     "total_athletes": 43
   },
   "athletes": [
@@ -6319,7 +6319,7 @@
       "team": "Snowboard Alpine Team",
       "fis_code": "220950",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=220950&type=result",
-      "current_rank": 48,
+      "current_rank": 1,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -6328,6 +6328,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-02-20",
+          "event": "Parallel Giant Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Akan",
+          "category": "Asian Cup",
+          "discipline": "Parallel Giant Slalom",
+          "cup_points": 100.0
+        },
         {
           "date": "2026-02-19",
           "event": "Parallel Slalom",
@@ -6863,17 +6874,6 @@
           "rank_status": null,
           "points": 0.0,
           "place": "Cortina d'Ampezzo",
-          "category": "Qualification",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2024-12-12",
-          "event": "Parallel Giant Slalom",
-          "rank": 44,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Carezza",
           "category": "Qualification",
           "discipline": "Parallel Giant Slalom",
           "cup_points": null
@@ -17416,15 +17416,566 @@
       "team": "Alpine Skiing Team",
       "fis_code": "93945",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=93945&type=result",
-      "current_rank": null,
-      "best_rank": null,
-      "season_starts": 0,
+      "current_rank": 33,
+      "best_rank": 1,
+      "season_starts": 50,
       "medals": {
         "gold": 0,
         "silver": 0,
         "bronze": 0
       },
-      "recent_results": []
+      "recent_results": [
+        {
+          "date": "2026-02-16",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Bormio",
+          "category": "Olympic Winter Games",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2026-02-14",
+          "event": "Giant Slalom",
+          "rank": 33,
+          "rank_status": null,
+          "points": 72.51,
+          "place": "Bormio",
+          "category": "Olympic Winter Games",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2026-02-06",
+          "event": "Giant Slalom",
+          "rank": 7,
+          "rank_status": null,
+          "points": 28.27,
+          "place": "Yongpyong Resorts",
+          "category": "Far East Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": 36.0
+        },
+        {
+          "date": "2026-02-05",
+          "event": "Giant Slalom",
+          "rank": 5,
+          "rank_status": null,
+          "points": 31.87,
+          "place": "Yongpyong Resorts",
+          "category": "Far East Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": 45.0
+        },
+        {
+          "date": "2026-02-03",
+          "event": "Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 15.0,
+          "place": "Alpensia Ski Resort",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 100.0
+        },
+        {
+          "date": "2026-02-02",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF2",
+          "points": 0.0,
+          "place": "Alpensia Ski Resort",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2026-01-30",
+          "event": "Giant Slalom",
+          "rank": 20,
+          "rank_status": null,
+          "points": 38.69,
+          "place": "Yongpyong Resorts",
+          "category": "Far East Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": 11.0
+        },
+        {
+          "date": "2026-01-29",
+          "event": "Giant Slalom",
+          "rank": 4,
+          "rank_status": null,
+          "points": 22.25,
+          "place": "Yongpyong Resorts",
+          "category": "Far East Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": 50.0
+        },
+        {
+          "date": "2026-01-27",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Alpensia Ski Resort",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2026-01-26",
+          "event": "Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 15.0,
+          "place": "Alpensia Ski Resort",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 100.0
+        },
+        {
+          "date": "2026-01-18",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNQ",
+          "points": 0.0,
+          "place": "Wengen",
+          "category": "World Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2026-01-11",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNS1",
+          "points": 0.0,
+          "place": "Adelboden",
+          "category": "World Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2026-01-07",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNS1",
+          "points": 0.0,
+          "place": "Madonna di Campiglio",
+          "category": "World Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2025-12-14",
+          "event": "Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 16.74,
+          "place": "Wanlong Ski Resorts",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 100.0
+        },
+        {
+          "date": "2025-12-13",
+          "event": "Slalom",
+          "rank": 2,
+          "rank_status": null,
+          "points": 19.9,
+          "place": "Wanlong Ski Resorts",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 80.0
+        },
+        {
+          "date": "2025-12-12",
+          "event": "Giant Slalom",
+          "rank": 3,
+          "rank_status": null,
+          "points": 21.92,
+          "place": "Wanlong Ski Resorts",
+          "category": "Far East Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": 60.0
+        },
+        {
+          "date": "2025-12-11",
+          "event": "Giant Slalom",
+          "rank": 11,
+          "rank_status": null,
+          "points": 36.24,
+          "place": "Wanlong Ski Resorts",
+          "category": "Far East Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": 24.0
+        },
+        {
+          "date": "2025-12-09",
+          "event": "Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 23.0,
+          "place": "Wanlong Ski Resorts",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2025-12-08",
+          "event": "Slalom",
+          "rank": 2,
+          "rank_status": null,
+          "points": 27.33,
+          "place": "Wanlong Ski Resorts",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2025-12-06",
+          "event": "Giant Slalom",
+          "rank": 3,
+          "rank_status": null,
+          "points": 25.47,
+          "place": "Wanlong Ski Resorts",
+          "category": "FIS",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2025-11-16",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Levi",
+          "category": "World Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2025-03-14",
+          "event": "Giant Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 29.36,
+          "place": "Yongpyong Resort",
+          "category": "FIS",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2025-03-13",
+          "event": "Giant Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 27.5,
+          "place": "Yongpyong Resort",
+          "category": "FIS",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2025-03-11",
+          "event": "Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 23.0,
+          "place": "Yongpyong Resort",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2025-03-07",
+          "event": "Slalom",
+          "rank": 2,
+          "rank_status": null,
+          "points": 18.54,
+          "place": "Hakuba",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 80.0
+        },
+        {
+          "date": "2025-03-06",
+          "event": "Slalom",
+          "rank": 12,
+          "rank_status": null,
+          "points": 23.58,
+          "place": "Hakuba",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 22.0
+        },
+        {
+          "date": "2025-02-28",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Sugadairakohgen",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2025-02-27",
+          "event": "Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 15.14,
+          "place": "Sugadairakohgen",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 100.0
+        },
+        {
+          "date": "2025-02-26",
+          "event": "Giant Slalom",
+          "rank": 12,
+          "rank_status": null,
+          "points": 32.84,
+          "place": "Sugadairakohgen",
+          "category": "Far East Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": 22.0
+        },
+        {
+          "date": "2025-02-25",
+          "event": "Giant Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Sugadairakohgen",
+          "category": "Far East Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2025-02-09",
+          "event": "Slalom",
+          "rank": 2,
+          "rank_status": null,
+          "points": 31.04,
+          "place": "Yabuli Ski Resort",
+          "category": "Asian Winter Games",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2025-02-01",
+          "event": "Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 17.01,
+          "place": "Alpensia Resort",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 100.0
+        },
+        {
+          "date": "2025-01-31",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DSQ2",
+          "points": 0.0,
+          "place": "Alpensia Resort",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2025-01-26",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Kitzbuehel",
+          "category": "World Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2025-01-19",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Wengen",
+          "category": "World Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2025-01-11",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNQ",
+          "points": 0.0,
+          "place": "Adelboden",
+          "category": "World Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2025-01-08",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Madonna di Campiglio",
+          "category": "World Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2024-12-13",
+          "event": "Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 17.15,
+          "place": "Wanlong Ski Resrort",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 100.0
+        },
+        {
+          "date": "2024-12-12",
+          "event": "Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 19.28,
+          "place": "Wanlong Ski Resrort",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 100.0
+        },
+        {
+          "date": "2024-12-11",
+          "event": "Giant Slalom",
+          "rank": null,
+          "rank_status": "DNF2",
+          "points": 0.0,
+          "place": "Wanlong Ski Resort",
+          "category": "Far East Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2024-12-10",
+          "event": "Giant Slalom",
+          "rank": 11,
+          "rank_status": null,
+          "points": 33.57,
+          "place": "Wanlong Ski Resort",
+          "category": "Far East Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": 24.0
+        },
+        {
+          "date": "2024-12-06",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF2",
+          "points": 0.0,
+          "place": "Wanglong Ski Resrort",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2024-12-05",
+          "event": "Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 23.0,
+          "place": "Wanglong Ski Resrort",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2024-12-04",
+          "event": "Giant Slalom",
+          "rank": 7,
+          "rank_status": null,
+          "points": 36.2,
+          "place": "Wanglong Ski Resrort",
+          "category": "FIS",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2024-12-03",
+          "event": "Giant Slalom",
+          "rank": 2,
+          "rank_status": null,
+          "points": 25.55,
+          "place": "Wanglong Ski Resrort",
+          "category": "FIS",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2024-01-14",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNS1",
+          "points": 0.0,
+          "place": "Wengen",
+          "category": "World Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2024-01-07",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Adelboden",
+          "category": "World Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2023-12-08",
+          "event": "Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 17.84,
+          "place": "Wanglong Ski Resrort",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 100.0
+        },
+        {
+          "date": "2023-12-07",
+          "event": "Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 18.03,
+          "place": "Wanglong Ski Resrort",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 100.0
+        },
+        {
+          "date": "2023-12-06",
+          "event": "Giant Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 23.29,
+          "place": "Wanglong Ski Resrort",
+          "category": "Far East Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": 100.0
+        }
+      ]
     },
     {
       "id": "KOR035",
