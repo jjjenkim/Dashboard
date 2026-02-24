@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-02-23T18:51:46.296739",
+    "last_updated": "2026-02-24T18:48:46.469522",
     "total_athletes": 43
   },
   "athletes": [
@@ -2322,7 +2322,7 @@
           "event": "Freeski Halfpipe",
           "rank": 20,
           "rank_status": null,
-          "points": 0.0,
+          "points": 14.7,
           "place": "Livigno",
           "category": "Olympic Winter Games",
           "discipline": "Freeski Halfpipe",
@@ -2895,7 +2895,7 @@
           "event": "Moguls",
           "rank": 8,
           "rank_status": null,
-          "points": 0.0,
+          "points": 70.4,
           "place": "Phoenix Pyeongchang",
           "category": "National Championships",
           "discipline": "Moguls",
@@ -2906,7 +2906,7 @@
           "event": "Dual Moguls",
           "rank": 8,
           "rank_status": null,
-          "points": 0.0,
+          "points": 320.0,
           "place": "Livigno",
           "category": "Olympic Winter Games",
           "discipline": "Dual Moguls",
@@ -3468,7 +3468,7 @@
           "event": "Moguls",
           "rank": 1,
           "rank_status": null,
-          "points": 0.0,
+          "points": 220.0,
           "place": "Phoenix Pyeongchang",
           "category": "National Championships",
           "discipline": "Moguls",
@@ -3479,7 +3479,7 @@
           "event": "Dual Moguls",
           "rank": 27,
           "rank_status": null,
-          "points": 0.0,
+          "points": 45.0,
           "place": "Livigno",
           "category": "Olympic Winter Games",
           "discipline": "Dual Moguls",
@@ -4041,7 +4041,7 @@
           "event": "Moguls",
           "rank": 1,
           "rank_status": null,
-          "points": 0.0,
+          "points": 50.0,
           "place": "Phoenix Pyeongchang",
           "category": "National Championships",
           "discipline": "Moguls",
@@ -4052,7 +4052,7 @@
           "event": "Dual Moguls",
           "rank": 26,
           "rank_status": null,
-          "points": 0.0,
+          "points": 50.0,
           "place": "Livigno",
           "category": "Olympic Winter Games",
           "discipline": "Dual Moguls",
@@ -17416,7 +17416,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "93945",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=93945&type=result",
-      "current_rank": 33,
+      "current_rank": 18,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -17425,6 +17425,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-02-24",
+          "event": "Giant Slalom",
+          "rank": 18,
+          "rank_status": null,
+          "points": 38.43,
+          "place": "Sugadairakohgen",
+          "category": "Far East Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": 13.0
+        },
         {
           "date": "2026-02-16",
           "event": "Slalom",
@@ -17962,17 +17973,6 @@
           "place": "Wanglong Ski Resrort",
           "category": "Far East Cup",
           "discipline": "Slalom",
-          "cup_points": 100.0
-        },
-        {
-          "date": "2023-12-06",
-          "event": "Giant Slalom",
-          "rank": 1,
-          "rank_status": null,
-          "points": 23.29,
-          "place": "Wanglong Ski Resrort",
-          "category": "Far East Cup",
-          "discipline": "Giant Slalom",
           "cup_points": 100.0
         }
       ]
@@ -18562,7 +18562,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "163737",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=163737&type=result",
-      "current_rank": 2,
+      "current_rank": 21,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -18571,6 +18571,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-02-24",
+          "event": "Giant Slalom",
+          "rank": 21,
+          "rank_status": null,
+          "points": 40.51,
+          "place": "Sugadairakohgen",
+          "category": "Far East Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": 10.0
+        },
         {
           "date": "2026-02-11",
           "event": "Slalom",
@@ -19107,17 +19118,6 @@
           "points": 23.3,
           "place": "Alpensia Resort",
           "category": "FIS",
-          "discipline": "Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2024-12-13",
-          "event": "Slalom",
-          "rank": null,
-          "rank_status": "DNF1",
-          "points": 0.0,
-          "place": "Wanlong Ski Resrort",
-          "category": "Far East Cup",
           "discipline": "Slalom",
           "cup_points": null
         }
@@ -20854,7 +20854,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "203604",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=203604&type=result",
-      "current_rank": 11,
+      "current_rank": 16,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -20863,6 +20863,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-02-24",
+          "event": "Giant Slalom",
+          "rank": 16,
+          "rank_status": null,
+          "points": 36.68,
+          "place": "Sugadairakohgen",
+          "category": "Far East Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": 15.0
+        },
         {
           "date": "2026-02-10",
           "event": "Giant Slalom",
@@ -21400,17 +21411,6 @@
           "place": "Yongpyong Resort",
           "category": "National Championships",
           "discipline": "Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2024-12-31",
-          "event": "Slalom",
-          "rank": 1,
-          "rank_status": null,
-          "points": 24.41,
-          "place": "Alpensia Resort",
-          "category": "FIS",
-          "discipline": "Slalom",
           "cup_points": null
         }
       ]
