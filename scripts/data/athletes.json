@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-03-04T18:35:14.129493",
+    "last_updated": "2026-03-05T19:08:59.139347",
     "total_athletes": 43
   },
   "athletes": [
@@ -12239,7 +12239,7 @@
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=JP&competitorid=270266&type=result",
       "current_rank": null,
       "best_rank": null,
-      "season_starts": 46,
+      "season_starts": 47,
       "medals": {
         "gold": 0,
         "silver": 0,
@@ -12259,7 +12259,7 @@
       "team": "Cross Country Team",
       "fis_code": "229479",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=229479&type=result",
-      "current_rank": 73,
+      "current_rank": 1,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -12268,6 +12268,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "10 km C Mst",
+          "rank": 1,
+          "rank_status": null,
+          "points": 89.42,
+          "place": "Alpensia Cross-Country Center",
+          "category": "FIS",
+          "discipline": "10 km C Mst",
+          "cup_points": null
+        },
         {
           "date": "2026-02-13",
           "event": "10 km F",
@@ -12806,17 +12817,6 @@
           "category": "Sprint Qualification",
           "discipline": "SP  F Qual",
           "cup_points": null
-        },
-        {
-          "date": "2024-11-24",
-          "event": "10 km F",
-          "rank": 156,
-          "rank_status": null,
-          "points": 167.85,
-          "place": "Bruksvallarna",
-          "category": "FIS",
-          "discipline": "10 km F",
-          "cup_points": null
         }
       ]
     },
@@ -12841,6 +12841,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "10 km C Mst",
+          "rank": 2,
+          "rank_status": null,
+          "points": 107.53,
+          "place": "Alpensia Cross-Country Center",
+          "category": "FIS",
+          "discipline": "10 km C Mst",
+          "cup_points": null
+        },
         {
           "date": "2026-01-31",
           "event": "SP 1.2 km C Final",
@@ -13371,17 +13382,6 @@
         },
         {
           "date": "2024-11-22",
-          "event": "SP 1.4 km F Final",
-          "rank": 107,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Bruksvallarna",
-          "category": "FIS",
-          "discipline": "SP 1.4 km F Final",
-          "cup_points": null
-        },
-        {
-          "date": "2024-11-22",
           "event": "SP 1.4 km F Qual",
           "rank": 107,
           "rank_status": null,
@@ -13405,7 +13405,7 @@
       "team": "Cross Country Team",
       "fis_code": "229490",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=229490&type=result",
-      "current_rank": 3,
+      "current_rank": 7,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -13414,6 +13414,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "10 km C Mst",
+          "rank": 7,
+          "rank_status": null,
+          "points": 197.62,
+          "place": "Alpensia Cross-Country Center",
+          "category": "FIS",
+          "discipline": "10 km C Mst",
+          "cup_points": null
+        },
         {
           "date": "2026-01-31",
           "event": "SP 1.2 km C Qual",
@@ -13952,17 +13963,6 @@
           "category": "Roller Ski",
           "discipline": "SP 1 km C Final",
           "cup_points": null
-        },
-        {
-          "date": "2024-08-06",
-          "event": "SP 1 km C Qual",
-          "rank": 8,
-          "rank_status": null,
-          "points": 431.64,
-          "place": "Alpensia Cross-Country Center",
-          "category": "Roller Ski",
-          "discipline": "SP 1 km C Qual",
-          "cup_points": null
         }
       ]
     },
@@ -13978,7 +13978,7 @@
       "team": "Cross Country Team",
       "fis_code": "136287",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=136287&type=result",
-      "current_rank": 6,
+      "current_rank": 4,
       "best_rank": 2,
       "season_starts": 50,
       "medals": {
@@ -13987,6 +13987,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "10 km C Mst",
+          "rank": 4,
+          "rank_status": null,
+          "points": 133.23,
+          "place": "Alpensia Cross-Country Center",
+          "category": "FIS",
+          "discipline": "10 km C Mst",
+          "cup_points": null
+        },
         {
           "date": "2026-01-31",
           "event": "SP 1.2 km C Final",
@@ -14525,17 +14536,6 @@
           "category": "FIS",
           "discipline": "30 km F Mst",
           "cup_points": null
-        },
-        {
-          "date": "2024-03-04",
-          "event": "15 km C Mst",
-          "rank": 5,
-          "rank_status": null,
-          "points": 135.48,
-          "place": "Alpensia Cross-Country Center",
-          "category": "FIS",
-          "discipline": "15 km C Mst",
-          "cup_points": null
         }
       ]
     },
@@ -14551,7 +14551,7 @@
       "team": "Cross Country Team",
       "fis_code": "154934",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=154934&type=result",
-      "current_rank": 1,
+      "current_rank": 5,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -14560,6 +14560,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "10 km C Mst",
+          "rank": 5,
+          "rank_status": null,
+          "points": 149.21,
+          "place": "Alpensia Cross-Country Center",
+          "category": "FIS",
+          "discipline": "10 km C Mst",
+          "cup_points": null
+        },
         {
           "date": "2026-01-31",
           "event": "SP 1.2 km C Final",
@@ -15098,17 +15109,6 @@
           "category": "FIS",
           "discipline": "30 km F Mst",
           "cup_points": null
-        },
-        {
-          "date": "2024-03-04",
-          "event": "15 km C Mst",
-          "rank": 8,
-          "rank_status": null,
-          "points": 193.02,
-          "place": "Alpensia Cross-Country Center",
-          "category": "FIS",
-          "discipline": "15 km C Mst",
-          "cup_points": null
         }
       ]
     },
@@ -15133,6 +15133,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "10 km C Mst",
+          "rank": null,
+          "rank_status": "DNF",
+          "points": 0.0,
+          "place": "Alpensia Cross-Country Center",
+          "category": "FIS",
+          "discipline": "10 km C Mst",
+          "cup_points": null
+        },
         {
           "date": "2026-02-18",
           "event": "Team Sprint F",
@@ -15586,17 +15597,6 @@
         },
         {
           "date": "2025-01-09",
-          "event": "SP 1.2 km F Qual",
-          "rank": 1,
-          "rank_status": null,
-          "points": 468.37,
-          "place": "Alpensia Cross-Country Center",
-          "category": "National Championships",
-          "discipline": "SP 1.2 km F Qual",
-          "cup_points": null
-        },
-        {
-          "date": "2025-01-09",
           "event": "SP 1.2 km F Final",
           "rank": 1,
           "rank_status": null,
@@ -15604,6 +15604,17 @@
           "place": "Alpensia Cross-Country Center",
           "category": "National Championships",
           "discipline": "SP 1.2 km F Final",
+          "cup_points": null
+        },
+        {
+          "date": "2025-01-09",
+          "event": "SP 1.2 km F Qual",
+          "rank": 1,
+          "rank_status": null,
+          "points": 468.37,
+          "place": "Alpensia Cross-Country Center",
+          "category": "National Championships",
+          "discipline": "SP 1.2 km F Qual",
           "cup_points": null
         },
         {
@@ -15671,17 +15682,6 @@
           "category": "FIS",
           "discipline": "10 km F",
           "cup_points": null
-        },
-        {
-          "date": "2024-11-23",
-          "event": "10 km C",
-          "rank": 61,
-          "rank_status": null,
-          "points": 170.98,
-          "place": "Bruksvallarna",
-          "category": "FIS",
-          "discipline": "10 km C",
-          "cup_points": null
         }
       ]
     },
@@ -15697,7 +15697,7 @@
       "team": "Cross Country Team",
       "fis_code": "162284",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=162284&type=result",
-      "current_rank": 23,
+      "current_rank": 1,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -15706,6 +15706,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "10 km C Mst",
+          "rank": 1,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Alpensia Cross-Country Center",
+          "category": "FIS",
+          "discipline": "10 km C Mst",
+          "cup_points": null
+        },
         {
           "date": "2026-02-18",
           "event": "Team Sprint F",
@@ -16115,17 +16126,6 @@
         },
         {
           "date": "2025-02-08",
-          "event": "SP  C Qual",
-          "rank": 13,
-          "rank_status": null,
-          "points": 424.84,
-          "place": "Harbin",
-          "category": "FIS",
-          "discipline": "SP  C Qual",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-08",
           "event": "SP  C Final",
           "rank": 13,
           "rank_status": null,
@@ -16133,6 +16133,17 @@
           "place": "Harbin",
           "category": "FIS",
           "discipline": "SP  C Final",
+          "cup_points": null
+        },
+        {
+          "date": "2025-02-08",
+          "event": "SP  C Qual",
+          "rank": 13,
+          "rank_status": null,
+          "points": 424.84,
+          "place": "Harbin",
+          "category": "FIS",
+          "discipline": "SP  C Qual",
           "cup_points": null
         },
         {
@@ -16159,17 +16170,6 @@
         },
         {
           "date": "2025-01-09",
-          "event": "SP 1.2 km F Qual",
-          "rank": 2,
-          "rank_status": null,
-          "points": 495.65,
-          "place": "Alpensia Cross-Country Center",
-          "category": "National Championships",
-          "discipline": "SP 1.2 km F Qual",
-          "cup_points": null
-        },
-        {
-          "date": "2025-01-09",
           "event": "SP 1.2 km F Final",
           "rank": 2,
           "rank_status": null,
@@ -16177,6 +16177,17 @@
           "place": "Alpensia Cross-Country Center",
           "category": "National Championships",
           "discipline": "SP 1.2 km F Final",
+          "cup_points": null
+        },
+        {
+          "date": "2025-01-09",
+          "event": "SP 1.2 km F Qual",
+          "rank": 2,
+          "rank_status": null,
+          "points": 495.65,
+          "place": "Alpensia Cross-Country Center",
+          "category": "National Championships",
+          "discipline": "SP 1.2 km F Qual",
           "cup_points": null
         },
         {
@@ -16236,17 +16247,6 @@
         },
         {
           "date": "2024-12-07",
-          "event": "SP   F Final",
-          "rank": 62,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Lillehammer",
-          "category": "World Cup",
-          "discipline": "SP   F Final",
-          "cup_points": null
-        },
-        {
-          "date": "2024-12-07",
           "event": "SP  F Qual",
           "rank": 62,
           "rank_status": null,
@@ -16279,6 +16279,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "10 km C Mst",
+          "rank": null,
+          "rank_status": "DNF",
+          "points": 0.0,
+          "place": "Alpensia Cross-Country Center",
+          "category": "FIS",
+          "discipline": "10 km C Mst",
+          "cup_points": null
+        },
         {
           "date": "2026-01-31",
           "event": "SP 1.2 km C Final",
@@ -16817,17 +16828,6 @@
           "category": "Far East Cup",
           "discipline": "5 km C",
           "cup_points": 45.0
-        },
-        {
-          "date": "2024-01-08",
-          "event": "SP 1.2 km C Qual",
-          "rank": 5,
-          "rank_status": null,
-          "points": 405.31,
-          "place": "Alpensia Cross-Country Center",
-          "category": "National Championships",
-          "discipline": "SP 1.2 km C Qual",
-          "cup_points": null
         }
       ]
     },
@@ -16843,7 +16843,7 @@
       "team": "Cross Country Team",
       "fis_code": "195562",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=195562&type=result",
-      "current_rank": 1,
+      "current_rank": 2,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -16852,6 +16852,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "10 km C Mst",
+          "rank": 2,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Alpensia Cross-Country Center",
+          "category": "FIS",
+          "discipline": "10 km C Mst",
+          "cup_points": null
+        },
         {
           "date": "2026-01-31",
           "event": "SP 1.2 km C Final",
@@ -17390,17 +17401,6 @@
           "category": "Roller Ski",
           "discipline": "10 km C Mst",
           "cup_points": null
-        },
-        {
-          "date": "2024-03-05",
-          "event": "15 km F Mst",
-          "rank": 3,
-          "rank_status": null,
-          "points": 167.13,
-          "place": "Alpensia Cross-Country Center",
-          "category": "FIS",
-          "discipline": "15 km F Mst",
-          "cup_points": null
         }
       ]
     },
@@ -17416,7 +17416,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "93945",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=93945&type=result",
-      "current_rank": 24,
+      "current_rank": 7,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -17425,6 +17425,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "Slalom",
+          "rank": 7,
+          "rank_status": null,
+          "points": 22.75,
+          "place": "Hakuba",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 36.0
+        },
         {
           "date": "2026-03-04",
           "event": "Slalom",
@@ -17963,17 +17974,6 @@
           "category": "FIS",
           "discipline": "Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2024-12-04",
-          "event": "Giant Slalom",
-          "rank": 7,
-          "rank_status": null,
-          "points": 36.2,
-          "place": "Wanglong Ski Resrort",
-          "category": "FIS",
-          "discipline": "Giant Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -17989,7 +17989,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "154866",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=154866&type=result",
-      "current_rank": 25,
+      "current_rank": 9,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -17998,6 +17998,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "Slalom",
+          "rank": 9,
+          "rank_status": null,
+          "points": 23.71,
+          "place": "Hakuba",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 29.0
+        },
         {
           "date": "2026-03-04",
           "event": "Slalom",
@@ -18536,17 +18547,6 @@
           "category": "World Cup",
           "discipline": "Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2024-11-17",
-          "event": "Slalom",
-          "rank": null,
-          "rank_status": "DNF1",
-          "points": 0.0,
-          "place": "Levi",
-          "category": "World Cup",
-          "discipline": "Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -18572,11 +18572,22 @@
       },
       "recent_results": [
         {
+          "date": "2026-03-05",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DSQ1",
+          "points": 0.0,
+          "place": "Hakuba",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-03-04",
           "event": "Slalom",
           "rank": 3,
           "rank_status": null,
-          "points": 0.0,
+          "points": 20.49,
           "place": "Hakuba",
           "category": "Far East Cup",
           "discipline": "Slalom",
@@ -19109,17 +19120,6 @@
           "category": "Far East Cup",
           "discipline": "Slalom",
           "cup_points": 32.0
-        },
-        {
-          "date": "2025-01-31",
-          "event": "Slalom",
-          "rank": 2,
-          "rank_status": null,
-          "points": 26.82,
-          "place": "Alpensia Resort",
-          "category": "Far East Cup",
-          "discipline": "Slalom",
-          "cup_points": 80.0
         }
       ]
     },
@@ -19144,6 +19144,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Yongpyong Resort",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-04",
           "event": "Giant Slalom",
@@ -19682,17 +19693,6 @@
           "category": "Far East Cup",
           "discipline": "Slalom",
           "cup_points": 3.0
-        },
-        {
-          "date": "2025-01-31",
-          "event": "Slalom",
-          "rank": null,
-          "rank_status": "DNF1",
-          "points": 0.0,
-          "place": "Alpensia Resort",
-          "category": "Far East Cup",
-          "discipline": "Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -19708,7 +19708,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "189170",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=189170&type=result",
-      "current_rank": 35,
+      "current_rank": 21,
       "best_rank": 2,
       "season_starts": 50,
       "medals": {
@@ -19717,6 +19717,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "Slalom",
+          "rank": 21,
+          "rank_status": null,
+          "points": 30.51,
+          "place": "Hakuba",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 10.0
+        },
         {
           "date": "2026-03-04",
           "event": "Slalom",
@@ -20255,17 +20266,6 @@
           "category": "Far East Cup",
           "discipline": "Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2024-12-11",
-          "event": "Giant Slalom",
-          "rank": 26,
-          "rank_status": null,
-          "points": 56.32,
-          "place": "Wanlong Ski Resort",
-          "category": "Far East Cup",
-          "discipline": "Giant Slalom",
-          "cup_points": 5.0
         }
       ]
     },
@@ -20281,7 +20281,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "188824",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=188824&type=result",
-      "current_rank": 1,
+      "current_rank": 25,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -20290,6 +20290,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "Slalom",
+          "rank": 25,
+          "rank_status": null,
+          "points": 33.12,
+          "place": "Hakuba",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": 6.0
+        },
         {
           "date": "2026-03-04",
           "event": "Slalom",
@@ -20828,17 +20839,6 @@
           "category": "National Championships",
           "discipline": "Giant Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2024-12-31",
-          "event": "Slalom",
-          "rank": 2,
-          "rank_status": null,
-          "points": 24.49,
-          "place": "Alpensia Resort",
-          "category": "FIS",
-          "discipline": "Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -20863,6 +20863,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DSQ1",
+          "points": 0.0,
+          "place": "Hakuba",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-04",
           "event": "Slalom",
@@ -21401,17 +21412,6 @@
           "category": "Far East Cup",
           "discipline": "Giant Slalom",
           "cup_points": 29.0
-        },
-        {
-          "date": "2025-02-03",
-          "event": "Giant Slalom",
-          "rank": 9,
-          "rank_status": null,
-          "points": 35.73,
-          "place": "Yongpyong Resort",
-          "category": "Far East Cup",
-          "discipline": "Giant Slalom",
-          "cup_points": 29.0
         }
       ]
     },
@@ -21437,11 +21437,22 @@
       },
       "recent_results": [
         {
+          "date": "2026-03-05",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF2",
+          "points": 0.0,
+          "place": "Hakuba",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-03-04",
           "event": "Slalom",
           "rank": 5,
           "rank_status": null,
-          "points": 0.0,
+          "points": 39.7,
           "place": "Hakuba",
           "category": "Far East Cup",
           "discipline": "Slalom",
@@ -21972,17 +21983,6 @@
           "points": 37.19,
           "place": "Wanglong Ski Resrort",
           "category": "FIS",
-          "discipline": "Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2024-11-23",
-          "event": "Slalom",
-          "rank": null,
-          "rank_status": "DNQ",
-          "points": 0.0,
-          "place": "Gurgl",
-          "category": "World Cup",
           "discipline": "Slalom",
           "cup_points": null
         }
@@ -22573,7 +22573,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "261321",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=261321&type=result",
-      "current_rank": 15,
+      "current_rank": 30,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -22582,6 +22582,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-05",
+          "event": "Slalom",
+          "rank": 30,
+          "rank_status": null,
+          "points": 112.83,
+          "place": "Hakuba",
+          "category": "Far East Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-04",
           "event": "Slalom",
@@ -23120,17 +23131,6 @@
           "category": "Far East Cup",
           "discipline": "Giant Slalom",
           "cup_points": 14.0
-        },
-        {
-          "date": "2025-02-25",
-          "event": "Giant Slalom",
-          "rank": null,
-          "rank_status": "DNF2",
-          "points": 0.0,
-          "place": "Sugadairakohgen",
-          "category": "Far East Cup",
-          "discipline": "Giant Slalom",
-          "cup_points": null
         }
       ]
     }
