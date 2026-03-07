@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-03-06T18:32:06.369192",
+    "last_updated": "2026-03-07T18:20:52.238665",
     "total_athletes": 43
   },
   "athletes": [
@@ -4600,7 +4600,7 @@
       "team": "Snowboard Alpine Team",
       "fis_code": "163744",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=163744&type=result",
-      "current_rank": 5,
+      "current_rank": 14,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -4609,6 +4609,28 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-07",
+          "event": "Parallel Slalom",
+          "rank": 14,
+          "rank_status": null,
+          "points": 180.0,
+          "place": "Spindleruv Mlyn",
+          "category": "World Cup",
+          "discipline": "Parallel Slalom",
+          "cup_points": 18.0
+        },
+        {
+          "date": "2026-03-07",
+          "event": "Parallel Slalom",
+          "rank": 13,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Spindleruv Mlyn",
+          "category": "Qualification",
+          "discipline": "Parallel Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-01",
           "event": "Parallel Giant Slalom",
@@ -5136,28 +5158,6 @@
           "category": "Qualification",
           "discipline": "Parallel Giant Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2024-12-08",
-          "event": "Parallel Slalom",
-          "rank": null,
-          "rank_status": "DNF",
-          "points": 0.0,
-          "place": "Yanqing (NASC)",
-          "category": "World Cup",
-          "discipline": "Parallel Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2024-12-08",
-          "event": "Parallel Slalom",
-          "rank": null,
-          "rank_status": "DNF",
-          "points": 0.0,
-          "place": "Yanqing (NASC)",
-          "category": "Qualification",
-          "discipline": "Parallel Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -5182,6 +5182,28 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-07",
+          "event": "Parallel Slalom",
+          "rank": null,
+          "rank_status": "DNF",
+          "points": 0.0,
+          "place": "Spindleruv Mlyn",
+          "category": "World Cup",
+          "discipline": "Parallel Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2026-03-07",
+          "event": "Parallel Slalom",
+          "rank": null,
+          "rank_status": "DNF",
+          "points": 0.0,
+          "place": "Spindleruv Mlyn",
+          "category": "Qualification",
+          "discipline": "Parallel Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-01",
           "event": "Parallel Giant Slalom",
@@ -5709,28 +5731,6 @@
           "category": "Qualification",
           "discipline": "Parallel Giant Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2025-01-15",
-          "event": "Parallel Slalom Team",
-          "rank": 12,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Bad Gastein",
-          "category": "World Cup",
-          "discipline": "Parallel Slalom Team",
-          "cup_points": 22.0
-        },
-        {
-          "date": "2025-01-14",
-          "event": "Parallel Slalom",
-          "rank": 12,
-          "rank_status": null,
-          "points": 220.0,
-          "place": "Bad Gastein",
-          "category": "World Cup",
-          "discipline": "Parallel Slalom",
-          "cup_points": 22.0
         }
       ]
     },
@@ -5755,6 +5755,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-07",
+          "event": "Parallel Giant Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "BIALKA TATRZANSKA",
+          "category": "European Cup",
+          "discipline": "Parallel Giant Slalom",
+          "cup_points": 100.0
+        },
         {
           "date": "2026-03-02",
           "event": "Parallel Giant Slalom",
@@ -6293,17 +6304,6 @@
           "category": "Qualification",
           "discipline": "Parallel Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2024-11-30",
-          "event": "Parallel Giant Slalom",
-          "rank": 12,
-          "rank_status": null,
-          "points": 220.0,
-          "place": "Mylin",
-          "category": "World Cup",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": 22.0
         }
       ]
     },
@@ -6892,7 +6892,7 @@
       "team": "Snowboard Alpine Team",
       "fis_code": "188936",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=188936&type=result",
-      "current_rank": 38,
+      "current_rank": 28,
       "best_rank": 2,
       "season_starts": 50,
       "medals": {
@@ -6901,6 +6901,28 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-07",
+          "event": "Parallel Slalom",
+          "rank": 28,
+          "rank_status": null,
+          "points": 40.0,
+          "place": "Spindleruv Mlyn",
+          "category": "World Cup",
+          "discipline": "Parallel Slalom",
+          "cup_points": 3.0
+        },
+        {
+          "date": "2026-03-07",
+          "event": "Parallel Slalom",
+          "rank": 28,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Spindleruv Mlyn",
+          "category": "Qualification",
+          "discipline": "Parallel Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-01",
           "event": "Parallel Giant Slalom",
@@ -7426,28 +7448,6 @@
           "points": 7.68,
           "place": "Simonhöhe",
           "category": "European Cup",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-01-25",
-          "event": "Parallel Giant Slalom",
-          "rank": 46,
-          "rank_status": null,
-          "points": 16.7,
-          "place": "Rogla",
-          "category": "World Cup",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-01-25",
-          "event": "Parallel Giant Slalom",
-          "rank": 46,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Rogla",
-          "category": "Qualification",
           "discipline": "Parallel Giant Slalom",
           "cup_points": null
         }
