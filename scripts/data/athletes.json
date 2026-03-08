@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-03-07T18:20:52.238665",
+    "last_updated": "2026-03-08T18:21:31.973964",
     "total_athletes": 43
   },
   "athletes": [
@@ -5746,7 +5746,7 @@
       "team": "Snowboard Alpine Team",
       "fis_code": "188938",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=188938&type=result",
-      "current_rank": 1,
+      "current_rank": 5,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -5756,11 +5756,22 @@
       },
       "recent_results": [
         {
+          "date": "2026-03-08",
+          "event": "Parallel Giant Slalom",
+          "rank": 5,
+          "rank_status": null,
+          "points": 117.0,
+          "place": "BIALKA TATRZANSKA",
+          "category": "European Cup",
+          "discipline": "Parallel Giant Slalom",
+          "cup_points": 45.0
+        },
+        {
           "date": "2026-03-07",
           "event": "Parallel Giant Slalom",
           "rank": 1,
           "rank_status": null,
-          "points": 0.0,
+          "points": 200.0,
           "place": "BIALKA TATRZANSKA",
           "category": "European Cup",
           "discipline": "Parallel Giant Slalom",
@@ -6293,17 +6304,6 @@
           "category": "World Cup",
           "discipline": "Parallel Slalom",
           "cup_points": 10.0
-        },
-        {
-          "date": "2024-12-01",
-          "event": "Parallel Slalom",
-          "rank": 21,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Mylin",
-          "category": "Qualification",
-          "discipline": "Parallel Slalom",
-          "cup_points": null
         }
       ]
     },
