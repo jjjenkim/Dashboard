@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-03-09T18:39:32.032934",
+    "last_updated": "2026-03-10T18:35:57.437832",
     "total_athletes": 43
   },
   "athletes": [
@@ -17416,7 +17416,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "93945",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=93945&type=result",
-      "current_rank": 7,
+      "current_rank": 2,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -17425,6 +17425,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-10",
+          "event": "Giant Slalom",
+          "rank": 2,
+          "rank_status": null,
+          "points": 27.04,
+          "place": "Yongpyong Resort",
+          "category": "FIS",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-05",
           "event": "Slalom",
@@ -17963,17 +17974,6 @@
           "category": "FIS",
           "discipline": "Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2024-12-05",
-          "event": "Slalom",
-          "rank": 1,
-          "rank_status": null,
-          "points": 23.0,
-          "place": "Wanglong Ski Resrort",
-          "category": "FIS",
-          "discipline": "Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -17998,6 +17998,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-10",
+          "event": "Giant Slalom",
+          "rank": null,
+          "rank_status": "DNF2",
+          "points": 0.0,
+          "place": "Yongpyong Resort",
+          "category": "FIS",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-05",
           "event": "Slalom",
@@ -18536,17 +18547,6 @@
           "category": "FIS",
           "discipline": "Giant Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2024-11-24",
-          "event": "Slalom",
-          "rank": null,
-          "rank_status": "DNF1",
-          "points": 0.0,
-          "place": "Gurgl",
-          "category": "World Cup",
-          "discipline": "Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -18562,7 +18562,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "163737",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=163737&type=result",
-      "current_rank": 3,
+      "current_rank": 1,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -18571,6 +18571,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-10",
+          "event": "Giant Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 23.0,
+          "place": "Yongpyong Resort",
+          "category": "FIS",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-05",
           "event": "Slalom",
@@ -19109,17 +19120,6 @@
           "category": "Far East Cup",
           "discipline": "Giant Slalom",
           "cup_points": 40.0
-        },
-        {
-          "date": "2025-02-01",
-          "event": "Slalom",
-          "rank": 8,
-          "rank_status": null,
-          "points": 27.27,
-          "place": "Alpensia Resort",
-          "category": "Far East Cup",
-          "discipline": "Slalom",
-          "cup_points": 32.0
         }
       ]
     },
@@ -19135,7 +19135,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "163740",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=163740&type=result",
-      "current_rank": 1,
+      "current_rank": 5,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -19144,6 +19144,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-10",
+          "event": "Giant Slalom",
+          "rank": 5,
+          "rank_status": null,
+          "points": 41.09,
+          "place": "Yongpyong Resort",
+          "category": "FIS",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-05",
           "event": "Slalom",
@@ -19682,17 +19693,6 @@
           "category": "Far East Cup",
           "discipline": "Giant Slalom",
           "cup_points": 2.0
-        },
-        {
-          "date": "2025-02-01",
-          "event": "Slalom",
-          "rank": 28,
-          "rank_status": null,
-          "points": 39.08,
-          "place": "Alpensia Resort",
-          "category": "Far East Cup",
-          "discipline": "Slalom",
-          "cup_points": 3.0
         }
       ]
     },
@@ -19708,7 +19708,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "189170",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=189170&type=result",
-      "current_rank": 21,
+      "current_rank": 3,
       "best_rank": 2,
       "season_starts": 50,
       "medals": {
@@ -19717,6 +19717,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-10",
+          "event": "Giant Slalom",
+          "rank": 3,
+          "rank_status": null,
+          "points": 35.47,
+          "place": "Yongpyong Resort",
+          "category": "FIS",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-05",
           "event": "Slalom",
@@ -20255,17 +20266,6 @@
           "category": "Far East Cup",
           "discipline": "Slalom",
           "cup_points": 80.0
-        },
-        {
-          "date": "2024-12-12",
-          "event": "Slalom",
-          "rank": null,
-          "rank_status": "DNF2",
-          "points": 0.0,
-          "place": "Wanlong Ski Resrort",
-          "category": "Far East Cup",
-          "discipline": "Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -20290,6 +20290,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-10",
+          "event": "Giant Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Yongpyong Resort",
+          "category": "FIS",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-05",
           "event": "Slalom",
@@ -20828,17 +20839,6 @@
           "category": "National Championships",
           "discipline": "Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2025-01-22",
-          "event": "Giant Slalom",
-          "rank": 8,
-          "rank_status": null,
-          "points": 43.36,
-          "place": "Yongpyong Resort",
-          "category": "National Championships",
-          "discipline": "Giant Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -20868,7 +20868,7 @@
           "event": "Giant Slalom",
           "rank": 4,
           "rank_status": null,
-          "points": 0.0,
+          "points": 28.04,
           "place": "Sugadairakohgen",
           "category": "National Championships",
           "discipline": "Giant Slalom",
@@ -21427,7 +21427,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "177571",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=177571&type=result",
-      "current_rank": 5,
+      "current_rank": 1,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -21436,6 +21436,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-10",
+          "event": "Giant Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 39.34,
+          "place": "Yongpyong Resort",
+          "category": "FIS",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-05",
           "event": "Slalom",
@@ -21970,17 +21981,6 @@
           "rank": 2,
           "rank_status": null,
           "points": 35.38,
-          "place": "Wanglong Ski Resrort",
-          "category": "FIS",
-          "discipline": "Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2024-12-05",
-          "event": "Slalom",
-          "rank": 3,
-          "rank_status": null,
-          "points": 37.19,
           "place": "Wanglong Ski Resrort",
           "category": "FIS",
           "discipline": "Slalom",
@@ -22573,7 +22573,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "261321",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=261321&type=result",
-      "current_rank": 30,
+      "current_rank": 3,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -22582,6 +22582,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-10",
+          "event": "Giant Slalom",
+          "rank": 3,
+          "rank_status": null,
+          "points": 63.33,
+          "place": "Yongpyong Resort",
+          "category": "FIS",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-05",
           "event": "Slalom",
@@ -23120,17 +23131,6 @@
           "category": "Far East Cup",
           "discipline": "Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2025-02-26",
-          "event": "Giant Slalom",
-          "rank": 17,
-          "rank_status": null,
-          "points": 56.98,
-          "place": "Sugadairakohgen",
-          "category": "Far East Cup",
-          "discipline": "Giant Slalom",
-          "cup_points": 14.0
         }
       ]
     }
