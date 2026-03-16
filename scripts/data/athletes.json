@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-03-15T18:25:37.644622",
+    "last_updated": "2026-03-16T18:49:00.415192",
     "total_athletes": 43
   },
   "athletes": [
@@ -4636,7 +4636,7 @@
           "event": "Parallel Giant Slalom",
           "rank": 6,
           "rank_status": null,
-          "points": 0.0,
+          "points": 400.0,
           "place": "Val St. Come",
           "category": "World Cup",
           "discipline": "Parallel Giant Slalom",
@@ -5209,7 +5209,7 @@
           "event": "Parallel Giant Slalom",
           "rank": 13,
           "rank_status": null,
-          "points": 0.0,
+          "points": 200.0,
           "place": "Val St. Come",
           "category": "World Cup",
           "discipline": "Parallel Giant Slalom",
@@ -6928,7 +6928,7 @@
           "event": "Parallel Giant Slalom",
           "rank": 36,
           "rank_status": null,
-          "points": 0.0,
+          "points": 19.7,
           "place": "Val St. Come",
           "category": "World Cup",
           "discipline": "Parallel Giant Slalom",
