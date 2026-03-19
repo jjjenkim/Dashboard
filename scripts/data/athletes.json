@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-03-18T18:45:04.369326",
+    "last_updated": "2026-03-19T18:43:26.356123",
     "total_athletes": 43
   },
   "athletes": [
@@ -19135,7 +19135,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "163740",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=163740&type=result",
-      "current_rank": 4,
+      "current_rank": 2,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -19144,6 +19144,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-19",
+          "event": "Giant Slalom",
+          "rank": 2,
+          "rank_status": null,
+          "points": 30.74,
+          "place": "Nukabira Gensenkyo",
+          "category": "National Junior Championships",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-13",
           "event": "Slalom",
@@ -19682,17 +19693,6 @@
           "category": "FIS",
           "discipline": "Giant Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2025-02-07",
-          "event": "Slalom",
-          "rank": 28,
-          "rank_status": null,
-          "points": 47.74,
-          "place": "Alpensia Resort",
-          "category": "Far East Cup",
-          "discipline": "Slalom",
-          "cup_points": 3.0
         }
       ]
     },
@@ -22573,7 +22573,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "261321",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=261321&type=result",
-      "current_rank": 4,
+      "current_rank": 2,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -22582,6 +22582,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-19",
+          "event": "Giant Slalom",
+          "rank": 2,
+          "rank_status": null,
+          "points": 35.53,
+          "place": "Nukabira Gensenkyo",
+          "category": "National Junior Championships",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-12",
           "event": "Slalom",
@@ -22798,7 +22809,7 @@
           "rank_status": "DNF2",
           "points": 0.0,
           "place": "Yongpyong Resorts",
-          "category": "National Championships",
+          "category": "FIS",
           "discipline": "Slalom",
           "cup_points": null
         },
@@ -22809,7 +22820,7 @@
           "rank_status": "DNF2",
           "points": 0.0,
           "place": "Yongpyong Resorts",
-          "category": "FIS",
+          "category": "National Championships",
           "discipline": "Slalom",
           "cup_points": null
         },
@@ -23118,17 +23129,6 @@
           "points": 89.82,
           "place": "Yongpyong Resort",
           "category": "FIS",
-          "discipline": "Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-03-07",
-          "event": "Slalom",
-          "rank": null,
-          "rank_status": "DNF1",
-          "points": 0.0,
-          "place": "Hakuba",
-          "category": "Far East Cup",
           "discipline": "Slalom",
           "cup_points": null
         }
