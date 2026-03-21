@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-03-20T18:34:57.056390",
+    "last_updated": "2026-03-21T18:23:20.465806",
     "total_athletes": 43
   },
   "athletes": [
@@ -4600,7 +4600,7 @@
       "team": "Snowboard Alpine Team",
       "fis_code": "163744",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=163744&type=result",
-      "current_rank": 6,
+      "current_rank": 1,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -4609,6 +4609,28 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-21",
+          "event": "Parallel Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Winterberg",
+          "category": "World Cup",
+          "discipline": "Parallel Slalom",
+          "cup_points": 100.0
+        },
+        {
+          "date": "2026-03-21",
+          "event": "Parallel Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Winterberg",
+          "category": "Qualification",
+          "discipline": "Parallel Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-15",
           "event": "Parallel Giant Slalom",
@@ -5135,28 +5157,6 @@
           "place": "Val St. Come",
           "category": "Qualification",
           "discipline": "Parallel Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2024-12-21",
-          "event": "Parallel Slalom",
-          "rank": 8,
-          "rank_status": null,
-          "points": 320.0,
-          "place": "Davos",
-          "category": "World Cup",
-          "discipline": "Parallel Slalom",
-          "cup_points": 32.0
-        },
-        {
-          "date": "2024-12-21",
-          "event": "Parallel Slalom",
-          "rank": 11,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Davos",
-          "category": "Qualification",
-          "discipline": "Parallel Slalom",
           "cup_points": null
         }
       ]
@@ -6319,7 +6319,7 @@
       "team": "Snowboard Alpine Team",
       "fis_code": "220950",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=220950&type=result",
-      "current_rank": 3,
+      "current_rank": 27,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -6328,6 +6328,28 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-21",
+          "event": "Parallel Slalom",
+          "rank": 27,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Winterberg",
+          "category": "World Cup",
+          "discipline": "Parallel Slalom",
+          "cup_points": 4.0
+        },
+        {
+          "date": "2026-03-21",
+          "event": "Parallel Slalom",
+          "rank": 27,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Winterberg",
+          "category": "Qualification",
+          "discipline": "Parallel Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-15",
           "event": "Parallel Slalom",
@@ -6855,28 +6877,6 @@
           "category": "World Cup",
           "discipline": "Parallel Giant Slalom",
           "cup_points": 9.0
-        },
-        {
-          "date": "2025-01-11",
-          "event": "Parallel Giant Slalom",
-          "rank": 22,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Scuol",
-          "category": "Qualification",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2024-12-21",
-          "event": "Parallel Slalom",
-          "rank": null,
-          "rank_status": "DNF",
-          "points": 0.0,
-          "place": "Davos",
-          "category": "World Cup",
-          "discipline": "Parallel Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -6892,7 +6892,7 @@
       "team": "Snowboard Alpine Team",
       "fis_code": "188936",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=188936&type=result",
-      "current_rank": 19,
+      "current_rank": 38,
       "best_rank": 2,
       "season_starts": 50,
       "medals": {
@@ -6901,6 +6901,28 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-21",
+          "event": "Parallel Slalom",
+          "rank": 38,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Winterberg",
+          "category": "World Cup",
+          "discipline": "Parallel Slalom",
+          "cup_points": null
+        },
+        {
+          "date": "2026-03-21",
+          "event": "Parallel Slalom",
+          "rank": 38,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Winterberg",
+          "category": "Qualification",
+          "discipline": "Parallel Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-15",
           "event": "Parallel Giant Slalom",
@@ -7427,28 +7449,6 @@
           "place": "Krynica",
           "category": "Qualification",
           "discipline": "Parallel Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-23",
-          "event": "Giant Slalom",
-          "rank": 2,
-          "rank_status": null,
-          "points": 128.0,
-          "place": "Lenzerheide",
-          "category": "National Championships",
-          "discipline": "Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-02",
-          "event": "Parallel Slalom",
-          "rank": 21,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Ratschings",
-          "category": "Qualification",
-          "discipline": "Parallel Slalom",
           "cup_points": null
         }
       ]
