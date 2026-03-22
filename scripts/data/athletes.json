@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-03-21T18:23:20.465806",
+    "last_updated": "2026-03-22T18:23:57.124944",
     "total_athletes": 43
   },
   "athletes": [
@@ -19145,6 +19145,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-03-22",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Akan",
+          "category": "National Junior Championships",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-03-20",
           "event": "Giant Slalom",
           "rank": 6,
@@ -19681,17 +19692,6 @@
           "place": "Yongpyong Resort",
           "category": "FIS",
           "discipline": "Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-25",
-          "event": "Giant Slalom",
-          "rank": 1,
-          "rank_status": null,
-          "points": 43.78,
-          "place": "Yongpyong Resort",
-          "category": "FIS",
-          "discipline": "Giant Slalom",
           "cup_points": null
         }
       ]
