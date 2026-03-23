@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-03-22T18:23:57.124944",
+    "last_updated": "2026-03-23T18:40:03.033250",
     "total_athletes": 43
   },
   "athletes": [
@@ -1172,6 +1172,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-03-20",
+          "event": "Freeski Big Air",
+          "rank": null,
+          "rank_status": "DNS",
+          "points": 0.0,
+          "place": "St. Anton am Arlberg",
+          "category": "European Cup",
+          "discipline": "Freeski Big Air",
+          "cup_points": null
+        },
+        {
           "date": "2026-02-20",
           "event": "Freeski Big Air",
           "rank": 2,
@@ -1708,17 +1719,6 @@
           "place": "Phoenix Pyeongchang",
           "category": "FIS",
           "discipline": "Freeski Slopestyle",
-          "cup_points": null
-        },
-        {
-          "date": "2020-02-18",
-          "event": "Freeski Halfpipe",
-          "rank": 4,
-          "rank_status": null,
-          "points": 25.0,
-          "place": "Pyeongchang",
-          "category": "National Championships",
-          "discipline": "Freeski Halfpipe",
           "cup_points": null
         }
       ]
@@ -8038,7 +8038,7 @@
       "team": "Snowboard Cross Team",
       "fis_code": "229485",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=229485&type=result",
-      "current_rank": 29,
+      "current_rank": 5,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -8047,6 +8047,28 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-22",
+          "event": "Snowboard Cross",
+          "rank": 5,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Yuzawamachi",
+          "category": "Asian Cup",
+          "discipline": "Snowboard Cross",
+          "cup_points": 45.0
+        },
+        {
+          "date": "2026-03-21",
+          "event": "Snowboard Cross",
+          "rank": 6,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Yuzawamachi",
+          "category": "Asian Cup",
+          "discipline": "Snowboard Cross",
+          "cup_points": 40.0
+        },
         {
           "date": "2026-02-13",
           "event": "Snowboard Cross",
@@ -8574,28 +8596,6 @@
           "category": "World Cup",
           "discipline": "Snowboard Cross Team",
           "cup_points": 17.0
-        },
-        {
-          "date": "2023-03-26",
-          "event": "Snowboard Cross",
-          "rank": 13,
-          "rank_status": null,
-          "points": 200.0,
-          "place": "Mt. St. Anne",
-          "category": "World Cup",
-          "discipline": "Snowboard Cross",
-          "cup_points": 20.0
-        },
-        {
-          "date": "2023-03-21",
-          "event": "Snowboard Cross",
-          "rank": 1,
-          "rank_status": null,
-          "points": 100.0,
-          "place": "Mt. Orignal",
-          "category": "Junior",
-          "discipline": "Snowboard Cross",
-          "cup_points": null
         }
       ]
     },
@@ -11223,7 +11223,7 @@
       "team": "Snowboard Park Team",
       "fis_code": "239111",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=239111&type=result",
-      "current_rank": 47,
+      "current_rank": 12,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -11232,6 +11232,28 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-21",
+          "event": "Slopestyle",
+          "rank": 12,
+          "rank_status": null,
+          "points": 10.5,
+          "place": "St. Anton am Arlberg",
+          "category": "FIS",
+          "discipline": "Slopestyle",
+          "cup_points": null
+        },
+        {
+          "date": "2026-03-20",
+          "event": "Big Air",
+          "rank": 7,
+          "rank_status": null,
+          "points": 66.7,
+          "place": "St. Anton am Arlberg",
+          "category": "European Cup",
+          "discipline": "Big Air",
+          "cup_points": 36.0
+        },
         {
           "date": "2025-12-13",
           "event": "Big Air",
@@ -11759,28 +11781,6 @@
           "category": "World Championships",
           "discipline": "Slopestyle",
           "cup_points": null
-        },
-        {
-          "date": "2023-02-24",
-          "event": "Slopestyle",
-          "rank": 15,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Bakuriani",
-          "category": "Qualification",
-          "discipline": "Slopestyle",
-          "cup_points": null
-        },
-        {
-          "date": "2023-02-10",
-          "event": "Slopestyle",
-          "rank": 7,
-          "rank_status": null,
-          "points": 83.6,
-          "place": "Aspen Snowmass, CO",
-          "category": "Nor-Am Cup",
-          "discipline": "Slopestyle",
-          "cup_points": 36.0
         }
       ]
     },
@@ -19135,7 +19135,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "163740",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=163740&type=result",
-      "current_rank": 6,
+      "current_rank": 9,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -19144,6 +19144,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-23",
+          "event": "Slalom",
+          "rank": 9,
+          "rank_status": null,
+          "points": 29.08,
+          "place": "Akan",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-22",
           "event": "Slalom",
@@ -19674,17 +19685,6 @@
         },
         {
           "date": "2025-03-07",
-          "event": "Slalom",
-          "rank": null,
-          "rank_status": "DNF1",
-          "points": 0.0,
-          "place": "Yongpyong Resort",
-          "category": "FIS",
-          "discipline": "Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-26",
           "event": "Slalom",
           "rank": null,
           "rank_status": "DNF1",
