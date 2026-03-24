@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-03-23T18:40:03.033250",
+    "last_updated": "2026-03-24T18:49:53.710803",
     "total_athletes": 43
   },
   "athletes": [
@@ -4614,7 +4614,7 @@
           "event": "Parallel Slalom",
           "rank": 1,
           "rank_status": null,
-          "points": 0.0,
+          "points": 1000.0,
           "place": "Winterberg",
           "category": "World Cup",
           "discipline": "Parallel Slalom",
@@ -6333,7 +6333,7 @@
           "event": "Parallel Slalom",
           "rank": 27,
           "rank_status": null,
-          "points": 0.0,
+          "points": 45.0,
           "place": "Winterberg",
           "category": "World Cup",
           "discipline": "Parallel Slalom",
@@ -6906,7 +6906,7 @@
           "event": "Parallel Slalom",
           "rank": 38,
           "rank_status": null,
-          "points": 0.0,
+          "points": 19.1,
           "place": "Winterberg",
           "category": "World Cup",
           "discipline": "Parallel Slalom",
