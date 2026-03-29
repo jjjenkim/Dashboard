@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-03-28T18:27:15.263509",
+    "last_updated": "2026-03-29T18:28:40.586379",
     "total_athletes": 43
   },
   "athletes": [
@@ -6319,7 +6319,7 @@
       "team": "Snowboard Alpine Team",
       "fis_code": "220950",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=220950&type=result",
-      "current_rank": 27,
+      "current_rank": 6,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -6328,6 +6328,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-29",
+          "event": "Giant Slalom",
+          "rank": 6,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Rogla",
+          "category": "National Championships",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-21",
           "event": "Parallel Slalom",
@@ -6866,17 +6877,6 @@
           "category": "Qualification",
           "discipline": "Parallel Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2025-01-11",
-          "event": "Parallel Giant Slalom",
-          "rank": 22,
-          "rank_status": null,
-          "points": 90.0,
-          "place": "Scuol",
-          "category": "World Cup",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": 9.0
         }
       ]
     },
@@ -6892,7 +6892,7 @@
       "team": "Snowboard Alpine Team",
       "fis_code": "188936",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=188936&type=result",
-      "current_rank": 38,
+      "current_rank": 5,
       "best_rank": 2,
       "season_starts": 50,
       "medals": {
@@ -6901,6 +6901,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-03-29",
+          "event": "Giant Slalom",
+          "rank": 5,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Rogla",
+          "category": "National Championships",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-21",
           "event": "Parallel Slalom",
@@ -7426,17 +7437,6 @@
           "points": 0.0,
           "place": "Krynica",
           "category": "Qualification",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-03-01",
-          "event": "Parallel Giant Slalom",
-          "rank": 40,
-          "rank_status": null,
-          "points": 18.5,
-          "place": "Krynica",
-          "category": "World Cup",
           "discipline": "Parallel Giant Slalom",
           "cup_points": null
         },
@@ -20868,7 +20868,7 @@
           "event": "Slalom",
           "rank": 2,
           "rank_status": null,
-          "points": 0.0,
+          "points": 22.32,
           "place": "Bjelasnica",
           "category": "National Championships",
           "discipline": "Slalom",
@@ -20879,7 +20879,7 @@
           "event": "Slalom",
           "rank": 2,
           "rank_status": null,
-          "points": 0.0,
+          "points": 28.24,
           "place": "Bjelasnica",
           "category": "National Junior Championships",
           "discipline": "Slalom",
