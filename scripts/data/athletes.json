@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-03-30T18:46:33.394908",
+    "last_updated": "2026-03-31T18:46:50.584162",
     "total_athletes": 43
   },
   "athletes": [
@@ -6319,7 +6319,7 @@
       "team": "Snowboard Alpine Team",
       "fis_code": "220950",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=220950&type=result",
-      "current_rank": 1,
+      "current_rank": 14,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -6329,11 +6329,22 @@
       },
       "recent_results": [
         {
+          "date": "2026-03-31",
+          "event": "Parallel Giant Slalom",
+          "rank": 14,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Nova Levante - Welschnofen",
+          "category": "National Championships",
+          "discipline": "Parallel Giant Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-03-30",
           "event": "Slalom",
           "rank": 1,
           "rank_status": null,
-          "points": 0.0,
+          "points": 220.0,
           "place": "Rogla",
           "category": "FIS",
           "discipline": "Slalom",
@@ -6344,7 +6355,7 @@
           "event": "Giant Slalom",
           "rank": 6,
           "rank_status": null,
-          "points": 0.0,
+          "points": 116.0,
           "place": "Rogla",
           "category": "National Championships",
           "discipline": "Giant Slalom",
@@ -6866,17 +6877,6 @@
           "category": "Universiade",
           "discipline": "Parallel Giant Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2025-01-14",
-          "event": "Parallel Slalom",
-          "rank": 54,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Bad Gastein",
-          "category": "Qualification",
-          "discipline": "Parallel Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -6892,7 +6892,7 @@
       "team": "Snowboard Alpine Team",
       "fis_code": "188936",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=188936&type=result",
-      "current_rank": 6,
+      "current_rank": 12,
       "best_rank": 2,
       "season_starts": 50,
       "medals": {
@@ -6902,11 +6902,22 @@
       },
       "recent_results": [
         {
+          "date": "2026-03-31",
+          "event": "Parallel Giant Slalom",
+          "rank": 12,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Nova Levante - Welschnofen",
+          "category": "National Championships",
+          "discipline": "Parallel Giant Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-03-30",
           "event": "Slalom",
           "rank": 6,
           "rank_status": null,
-          "points": 0.0,
+          "points": 88.0,
           "place": "Rogla",
           "category": "FIS",
           "discipline": "Slalom",
@@ -6917,7 +6928,7 @@
           "event": "Giant Slalom",
           "rank": 5,
           "rank_status": null,
-          "points": 0.0,
+          "points": 130.5,
           "place": "Rogla",
           "category": "National Championships",
           "discipline": "Giant Slalom",
@@ -7428,17 +7439,6 @@
           "category": "European Cup",
           "discipline": "Parallel Giant Slalom",
           "cup_points": 18.0
-        },
-        {
-          "date": "2025-03-02",
-          "event": "Parallel Giant Slalom",
-          "rank": 26,
-          "rank_status": null,
-          "points": 50.0,
-          "place": "Krynica",
-          "category": "World Cup",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": 5.0
         },
         {
           "date": "2025-03-02",
@@ -10650,15 +10650,566 @@
       "team": "Snowboard Park Team",
       "fis_code": "212759",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=212759&type=result",
-      "current_rank": null,
-      "best_rank": null,
-      "season_starts": 0,
+      "current_rank": 22,
+      "best_rank": 1,
+      "season_starts": 50,
       "medals": {
         "gold": 0,
         "silver": 0,
         "bronze": 0
       },
-      "recent_results": []
+      "recent_results": [
+        {
+          "date": "2026-02-12",
+          "event": "Halfpipe",
+          "rank": 22,
+          "rank_status": null,
+          "points": 23.9,
+          "place": "Livigno",
+          "category": "Olympic Winter Games",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2026-02-11",
+          "event": "Halfpipe",
+          "rank": 22,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Livigno",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2026-01-17",
+          "event": "Halfpipe",
+          "rank": 22,
+          "rank_status": null,
+          "points": 84.6,
+          "place": "Laax",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 9.0
+        },
+        {
+          "date": "2026-01-15",
+          "event": "Halfpipe",
+          "rank": 22,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Laax",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2026-01-03",
+          "event": "Halfpipe",
+          "rank": 9,
+          "rank_status": null,
+          "points": 124.9,
+          "place": "Calgary",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 29.0
+        },
+        {
+          "date": "2026-01-02",
+          "event": "Halfpipe",
+          "rank": 9,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Calgary",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2025-12-19",
+          "event": "Halfpipe",
+          "rank": 18,
+          "rank_status": null,
+          "points": 135.8,
+          "place": "Copper",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 13.0
+        },
+        {
+          "date": "2025-12-17",
+          "event": "Halfpipe",
+          "rank": 11,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Copper",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2025-12-12",
+          "event": "Halfpipe",
+          "rank": 20,
+          "rank_status": null,
+          "points": 78.5,
+          "place": "Secret Garden",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 11.0
+        },
+        {
+          "date": "2025-12-10",
+          "event": "Halfpipe",
+          "rank": 20,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Secret Garden",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2025-03-29",
+          "event": "Halfpipe",
+          "rank": 21,
+          "rank_status": null,
+          "points": 62.2,
+          "place": "Engadin",
+          "category": "World Championships",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2025-03-27",
+          "event": "Halfpipe",
+          "rank": 21,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Engadin",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2025-02-21",
+          "event": "Halfpipe",
+          "rank": 21,
+          "rank_status": null,
+          "points": 28.8,
+          "place": "Calgary",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 10.0
+        },
+        {
+          "date": "2025-02-19",
+          "event": "Halfpipe",
+          "rank": 21,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Calgary",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2025-02-12",
+          "event": "Halfpipe",
+          "rank": 7,
+          "rank_status": null,
+          "points": 71.6,
+          "place": "Yabuli Ski Resort",
+          "category": "Asian Winter Games",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2025-02-01",
+          "event": "Halfpipe",
+          "rank": 22,
+          "rank_status": null,
+          "points": 95.0,
+          "place": "Aspen",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 9.0
+        },
+        {
+          "date": "2025-01-30",
+          "event": "Halfpipe",
+          "rank": 22,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Aspen",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2025-01-18",
+          "event": "Halfpipe",
+          "rank": 21,
+          "rank_status": null,
+          "points": 82.6,
+          "place": "Laax",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 10.0
+        },
+        {
+          "date": "2025-01-17",
+          "event": "Halfpipe",
+          "rank": 21,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Laax",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2024-12-20",
+          "event": "Halfpipe",
+          "rank": 21,
+          "rank_status": null,
+          "points": 112.3,
+          "place": "Copper",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 10.0
+        },
+        {
+          "date": "2024-12-18",
+          "event": "Halfpipe",
+          "rank": 12,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Copper",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2024-12-08",
+          "event": "Halfpipe",
+          "rank": 25,
+          "rank_status": null,
+          "points": 20.5,
+          "place": "Secret Garden",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 6.0
+        },
+        {
+          "date": "2024-12-06",
+          "event": "Halfpipe",
+          "rank": 25,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Secret Garden",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2024-04-08",
+          "event": "Halfpipe",
+          "rank": 5,
+          "rank_status": null,
+          "points": 168.8,
+          "place": "Corvatsch",
+          "category": "European Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 45.0
+        },
+        {
+          "date": "2024-03-09",
+          "event": "Halfpipe",
+          "rank": 8,
+          "rank_status": null,
+          "points": 55.4,
+          "place": "Laax",
+          "category": "European Cup Premium",
+          "discipline": "Halfpipe",
+          "cup_points": 48.0
+        },
+        {
+          "date": "2024-02-24",
+          "event": "Halfpipe",
+          "rank": 1,
+          "rank_status": null,
+          "points": 50.0,
+          "place": "Welli Hilli",
+          "category": "National Championships",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2024-02-15",
+          "event": "Halfpipe",
+          "rank": null,
+          "rank_status": "DNS",
+          "points": 0.0,
+          "place": "Pheonix PyeongChang",
+          "category": "FIS",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2024-02-10",
+          "event": "Halfpipe",
+          "rank": 15,
+          "rank_status": null,
+          "points": 23.5,
+          "place": "Calgary",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 16.0
+        },
+        {
+          "date": "2024-02-09",
+          "event": "Halfpipe",
+          "rank": 15,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Calgary",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2024-02-03",
+          "event": "Halfpipe",
+          "rank": 19,
+          "rank_status": null,
+          "points": 15.9,
+          "place": "Mammoth Mountain",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 12.0
+        },
+        {
+          "date": "2024-01-30",
+          "event": "Halfpipe",
+          "rank": 19,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Mammoth Mountain",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2023-03-18",
+          "event": "Halfpipe",
+          "rank": 4,
+          "rank_status": null,
+          "points": 94.2,
+          "place": "Laax",
+          "category": "European Cup Premium",
+          "discipline": "Halfpipe",
+          "cup_points": 100.0
+        },
+        {
+          "date": "2023-03-03",
+          "event": "Halfpipe",
+          "rank": 14,
+          "rank_status": null,
+          "points": 65.4,
+          "place": "Bakuriani",
+          "category": "World Championships",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2023-03-01",
+          "event": "Halfpipe",
+          "rank": 14,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Bakuriani",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2023-02-10",
+          "event": "Halfpipe",
+          "rank": 6,
+          "rank_status": null,
+          "points": 247.7,
+          "place": "Calgary",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 40.0
+        },
+        {
+          "date": "2023-02-09",
+          "event": "Halfpipe",
+          "rank": 7,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Calgary",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2023-02-04",
+          "event": "Halfpipe",
+          "rank": 18,
+          "rank_status": null,
+          "points": 55.6,
+          "place": "Mammoth Mountain",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 13.0
+        },
+        {
+          "date": "2023-02-02",
+          "event": "Halfpipe",
+          "rank": 18,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Mammoth Mountain",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2023-01-21",
+          "event": "Halfpipe",
+          "rank": 19,
+          "rank_status": null,
+          "points": 41.1,
+          "place": "Laax",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 12.0
+        },
+        {
+          "date": "2023-01-19",
+          "event": "Halfpipe",
+          "rank": 19,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Laax",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2022-12-16",
+          "event": "Halfpipe",
+          "rank": 15,
+          "rank_status": null,
+          "points": 111.9,
+          "place": "Copper Mountain",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 16.0
+        },
+        {
+          "date": "2022-12-14",
+          "event": "Halfpipe",
+          "rank": 15,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Copper Mountain",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2022-09-01",
+          "event": "Halfpipe",
+          "rank": 4,
+          "rank_status": null,
+          "points": 25.5,
+          "place": "Cardrona",
+          "category": "Australian New Zealand Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 50.0
+        },
+        {
+          "date": "2022-02-10",
+          "event": "Halfpipe",
+          "rank": 20,
+          "rank_status": null,
+          "points": 27.2,
+          "place": "Beijing",
+          "category": "Olympic Winter Games",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2022-02-09",
+          "event": "Halfpipe",
+          "rank": 20,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Beijing",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2022-01-15",
+          "event": "Halfpipe",
+          "rank": 28,
+          "rank_status": null,
+          "points": 0.4,
+          "place": "Laax",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 3.0
+        },
+        {
+          "date": "2022-01-13",
+          "event": "Halfpipe",
+          "rank": 28,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Laax",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2022-01-08",
+          "event": "Halfpipe",
+          "rank": 26,
+          "rank_status": null,
+          "points": 0.4,
+          "place": "Mammoth Mountain",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 5.0
+        },
+        {
+          "date": "2022-01-06",
+          "event": "Halfpipe",
+          "rank": 26,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Mammoth Mountain",
+          "category": "Qualification",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
+        {
+          "date": "2021-12-11",
+          "event": "Halfpipe",
+          "rank": 26,
+          "rank_status": null,
+          "points": 62.2,
+          "place": "Copper Mountain",
+          "category": "World Cup",
+          "discipline": "Halfpipe",
+          "cup_points": 5.0
+        }
+      ]
     },
     {
       "id": "KOR021",
