@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-03-31T18:46:50.584162",
+    "last_updated": "2026-04-01T18:46:44.046144",
     "total_athletes": 43
   },
   "athletes": [
@@ -6319,7 +6319,7 @@
       "team": "Snowboard Alpine Team",
       "fis_code": "220950",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=220950&type=result",
-      "current_rank": 14,
+      "current_rank": 8,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -6328,6 +6328,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-04-01",
+          "event": "Parallel Slalom",
+          "rank": 8,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Nova Levante - Welschnofen",
+          "category": "National Championships",
+          "discipline": "Parallel Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-31",
           "event": "Parallel Giant Slalom",
@@ -6866,17 +6877,6 @@
           "category": "Universiade",
           "discipline": "Parallel Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2025-01-21",
-          "event": "Parallel Giant Slalom",
-          "rank": 2,
-          "rank_status": null,
-          "points": 208.0,
-          "place": "Bardonecchia",
-          "category": "Universiade",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -6892,7 +6892,7 @@
       "team": "Snowboard Alpine Team",
       "fis_code": "188936",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=188936&type=result",
-      "current_rank": 12,
+      "current_rank": 7,
       "best_rank": 2,
       "season_starts": 50,
       "medals": {
@@ -6901,6 +6901,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-04-01",
+          "event": "Parallel Slalom",
+          "rank": 7,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Nova Levante - Welschnofen",
+          "category": "National Championships",
+          "discipline": "Parallel Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-31",
           "event": "Parallel Giant Slalom",
@@ -7439,17 +7450,6 @@
           "category": "European Cup",
           "discipline": "Parallel Giant Slalom",
           "cup_points": 18.0
-        },
-        {
-          "date": "2025-03-02",
-          "event": "Parallel Giant Slalom",
-          "rank": 26,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Krynica",
-          "category": "Qualification",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": null
         }
       ]
     },
