@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-04-01T18:46:44.046144",
+    "last_updated": "2026-04-02T18:42:46.518437",
     "total_athletes": 43
   },
   "athletes": [
@@ -8048,6 +8048,28 @@
       },
       "recent_results": [
         {
+          "date": "2026-04-02",
+          "event": "Snowboard Cross",
+          "rank": 5,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Mont Sainte-Anne, QC",
+          "category": "Nor-Am Cup",
+          "discipline": "Snowboard Cross",
+          "cup_points": 45.0
+        },
+        {
+          "date": "2026-04-01",
+          "event": "Snowboard Cross",
+          "rank": 4,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Mont Sainte-Anne, QC",
+          "category": "Nor-Am Cup",
+          "discipline": "Snowboard Cross",
+          "cup_points": 50.0
+        },
+        {
           "date": "2026-03-28",
           "event": "Snowboard Cross",
           "rank": null,
@@ -8574,28 +8596,6 @@
           "category": "World Cup",
           "discipline": "Snowboard Cross Team",
           "cup_points": 17.0
-        },
-        {
-          "date": "2023-12-16",
-          "event": "Snowboard Cross",
-          "rank": 29,
-          "rank_status": null,
-          "points": 36.0,
-          "place": "Cervinia",
-          "category": "World Cup",
-          "discipline": "Snowboard Cross",
-          "cup_points": 4.0
-        },
-        {
-          "date": "2023-12-03",
-          "event": "Snowboard Cross",
-          "rank": 35,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Les Deux Alpes",
-          "category": "World Cup",
-          "discipline": "Snowboard Cross",
-          "cup_points": null
         }
       ]
     },
@@ -9184,7 +9184,7 @@
       "team": "Snowboard Park Team",
       "fis_code": "261333",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=261333&type=result",
-      "current_rank": 13,
+      "current_rank": 2,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -9193,6 +9193,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-04-01",
+          "event": "Halfpipe",
+          "rank": 2,
+          "rank_status": null,
+          "points": 213.9,
+          "place": "Laax",
+          "category": "European Cup Premium",
+          "discipline": "Halfpipe",
+          "cup_points": 120.0
+        },
         {
           "date": "2026-02-13",
           "event": "Halfpipe",
@@ -9731,17 +9742,6 @@
           "category": "Australian New Zealand Cup",
           "discipline": "Halfpipe",
           "cup_points": 20.0
-        },
-        {
-          "date": "2022-02-14",
-          "event": "Big Air",
-          "rank": 5,
-          "rank_status": null,
-          "points": 20.1,
-          "place": "Yongpyong Resort",
-          "category": "National Championships",
-          "discipline": "Big Air",
-          "cup_points": null
         }
       ]
     },
@@ -9757,7 +9757,7 @@
       "team": "Snowboard Park Team",
       "fis_code": "261977",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=261977&type=result",
-      "current_rank": 23,
+      "current_rank": 1,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -9766,6 +9766,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-04-01",
+          "event": "Halfpipe",
+          "rank": 1,
+          "rank_status": null,
+          "points": 260.0,
+          "place": "Laax",
+          "category": "European Cup Premium",
+          "discipline": "Halfpipe",
+          "cup_points": 150.0
+        },
         {
           "date": "2026-02-13",
           "event": "Halfpipe",
@@ -10302,17 +10313,6 @@
           "points": 17.0,
           "place": "Leysin",
           "category": "FIS Junior World Championships",
-          "discipline": "Halfpipe",
-          "cup_points": null
-        },
-        {
-          "date": "2022-02-11",
-          "event": "Halfpipe",
-          "rank": 6,
-          "rank_status": null,
-          "points": 7.2,
-          "place": "Phoenix Pyeongchang",
-          "category": "National Championships",
           "discipline": "Halfpipe",
           "cup_points": null
         }
