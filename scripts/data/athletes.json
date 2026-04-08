@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-04-07T18:48:34.157178",
+    "last_updated": "2026-04-08T19:03:14.478861",
     "total_athletes": 43
   },
   "athletes": [
@@ -8052,7 +8052,7 @@
           "event": "Snowboard Cross",
           "rank": 5,
           "rank_status": null,
-          "points": 0.0,
+          "points": 99.0,
           "place": "Mont Sainte-Anne, QC",
           "category": "Nor-Am Cup",
           "discipline": "Snowboard Cross",
@@ -8063,7 +8063,7 @@
           "event": "Snowboard Cross",
           "rank": 4,
           "rank_status": null,
-          "points": 0.0,
+          "points": 110.0,
           "place": "Mont Sainte-Anne, QC",
           "category": "Nor-Am Cup",
           "discipline": "Snowboard Cross",
@@ -19135,7 +19135,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "163740",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=163740&type=result",
-      "current_rank": 6,
+      "current_rank": 1,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -19144,6 +19144,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-04-08",
+          "event": "Slalom",
+          "rank": 1,
+          "rank_status": null,
+          "points": 23.0,
+          "place": "Nozawa Onsen",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-04-06",
           "event": "Giant Slalom",
@@ -19678,17 +19689,6 @@
           "rank": 1,
           "rank_status": null,
           "points": 37.98,
-          "place": "Yongpyong Resort",
-          "category": "FIS",
-          "discipline": "Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-03-08",
-          "event": "Giant Slalom",
-          "rank": 1,
-          "rank_status": null,
-          "points": 40.37,
           "place": "Yongpyong Resort",
           "category": "FIS",
           "discipline": "Giant Slalom",
