@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-04-10T18:39:49.997272",
+    "last_updated": "2026-04-11T18:30:30.816641",
     "total_athletes": 43
   },
   "athletes": [
@@ -9184,7 +9184,7 @@
       "team": "Snowboard Park Team",
       "fis_code": "261333",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=261333&type=result",
-      "current_rank": 2,
+      "current_rank": 1,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -9193,6 +9193,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-04-10",
+          "event": "Halfpipe",
+          "rank": 1,
+          "rank_status": null,
+          "points": 220.0,
+          "place": "Corvatsch",
+          "category": "National Junior Championships",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
         {
           "date": "2026-04-01",
           "event": "Halfpipe",
@@ -9731,17 +9742,6 @@
           "category": "Australian New Zealand Cup",
           "discipline": "Slopestyle",
           "cup_points": 1.0
-        },
-        {
-          "date": "2022-09-01",
-          "event": "Halfpipe",
-          "rank": 13,
-          "rank_status": null,
-          "points": 13.6,
-          "place": "Cardrona",
-          "category": "Australian New Zealand Cup",
-          "discipline": "Halfpipe",
-          "cup_points": 20.0
         }
       ]
     },
@@ -9757,7 +9757,7 @@
       "team": "Snowboard Park Team",
       "fis_code": "261977",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=261977&type=result",
-      "current_rank": 1,
+      "current_rank": 2,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -9766,6 +9766,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-04-10",
+          "event": "Halfpipe",
+          "rank": 2,
+          "rank_status": null,
+          "points": 181.3,
+          "place": "Corvatsch",
+          "category": "National Junior Championships",
+          "discipline": "Halfpipe",
+          "cup_points": null
+        },
         {
           "date": "2026-04-01",
           "event": "Halfpipe",
@@ -10304,17 +10315,6 @@
           "category": "European Cup Premium",
           "discipline": "Halfpipe",
           "cup_points": 64.0
-        },
-        {
-          "date": "2022-03-08",
-          "event": "Halfpipe",
-          "rank": 17,
-          "rank_status": null,
-          "points": 17.0,
-          "place": "Leysin",
-          "category": "FIS Junior World Championships",
-          "discipline": "Halfpipe",
-          "cup_points": null
         }
       ]
     },
