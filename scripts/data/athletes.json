@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-04-11T18:30:30.816641",
+    "last_updated": "2026-04-12T18:34:33.241931",
     "total_athletes": 43
   },
   "athletes": [
@@ -6329,6 +6329,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-04-11",
+          "event": "Giant Slalom",
+          "rank": null,
+          "rank_status": "DSQ",
+          "points": 0.0,
+          "place": "Corvatsch",
+          "category": "National Championships",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-04-05",
           "event": "Parallel Slalom",
           "rank": 7,
@@ -6866,17 +6877,6 @@
           "category": "European Cup",
           "discipline": "Parallel Giant Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2025-01-25",
-          "event": "Parallel Giant Slalom",
-          "rank": 41,
-          "rank_status": null,
-          "points": 18.2,
-          "place": "Rogla",
-          "category": "World Cup",
-          "discipline": "Parallel Giant Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -6892,7 +6892,7 @@
       "team": "Snowboard Alpine Team",
       "fis_code": "188936",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=188936&type=result",
-      "current_rank": 10,
+      "current_rank": 4,
       "best_rank": 2,
       "season_starts": 50,
       "medals": {
@@ -6901,6 +6901,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-04-11",
+          "event": "Giant Slalom",
+          "rank": 4,
+          "rank_status": null,
+          "points": 120.0,
+          "place": "Corvatsch",
+          "category": "National Championships",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-04-05",
           "event": "Parallel Slalom",
@@ -7428,17 +7439,6 @@
           "category": "Qualification",
           "discipline": "Parallel Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2025-03-15",
-          "event": "Parallel Slalom",
-          "rank": 5,
-          "rank_status": null,
-          "points": 99.0,
-          "place": "Davos",
-          "category": "European Cup",
-          "discipline": "Parallel Slalom",
-          "cup_points": 45.0
         },
         {
           "date": "2025-03-15",
