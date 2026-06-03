@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-06-02T20:35:22.028442",
+    "last_updated": "2026-06-03T20:47:12.344032",
     "total_athletes": 43
   },
   "athletes": [
@@ -12217,7 +12217,7 @@
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=JP&competitorid=10064&type=result",
       "current_rank": null,
       "best_rank": null,
-      "season_starts": 0,
+      "season_starts": 50,
       "medals": {
         "gold": 0,
         "silver": 0,
