@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-08-05T19:14:34.458987",
+    "last_updated": "2026-08-06T23:49:57.506300",
     "total_athletes": 43
   },
   "athletes": [
@@ -13978,7 +13978,7 @@
       "team": "Cross Country Team",
       "fis_code": "136287",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=136287&type=result",
-      "current_rank": 5,
+      "current_rank": 4,
       "best_rank": 2,
       "season_starts": 50,
       "medals": {
@@ -13987,6 +13987,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-08-06",
+          "event": "Interval Start",
+          "rank": 4,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Alpensia Cross-Country Center",
+          "category": "Roller Ski Asian Cup",
+          "discipline": "Interval Start",
+          "cup_points": 50.0
+        },
         {
           "date": "2026-08-05",
           "event": "Sprint Final",
@@ -14525,17 +14536,6 @@
           "category": "Roller Ski",
           "discipline": "Interval Start",
           "cup_points": null
-        },
-        {
-          "date": "2024-08-06",
-          "event": "Sprint Final",
-          "rank": 3,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Alpensia Cross-Country Center",
-          "category": "Roller Ski",
-          "discipline": "Sprint Final",
-          "cup_points": null
         }
       ]
     },
@@ -14551,7 +14551,7 @@
       "team": "Cross Country Team",
       "fis_code": "154934",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=154934&type=result",
-      "current_rank": 1,
+      "current_rank": 2,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -14560,6 +14560,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-08-06",
+          "event": "Interval Start",
+          "rank": 2,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Alpensia Cross-Country Center",
+          "category": "Roller Ski Asian Cup",
+          "discipline": "Interval Start",
+          "cup_points": 80.0
+        },
         {
           "date": "2026-08-05",
           "event": "Sprint Final",
@@ -15098,17 +15109,6 @@
           "category": "Roller Ski",
           "discipline": "Interval Start",
           "cup_points": null
-        },
-        {
-          "date": "2024-08-06",
-          "event": "Sprint Final",
-          "rank": 21,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Alpensia Cross-Country Center",
-          "category": "Roller Ski",
-          "discipline": "Sprint Final",
-          "cup_points": null
         }
       ]
     },
@@ -15124,7 +15124,7 @@
       "team": "Cross Country Team",
       "fis_code": "221223",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=221223&type=result",
-      "current_rank": 4,
+      "current_rank": 2,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -15133,6 +15133,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-08-06",
+          "event": "Interval Start",
+          "rank": 2,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Alpensia Cross-Country Center",
+          "category": "Roller Ski Asian Cup",
+          "discipline": "Interval Start",
+          "cup_points": 80.0
+        },
         {
           "date": "2026-08-05",
           "event": "Sprint Final",
@@ -15586,17 +15597,6 @@
         },
         {
           "date": "2025-02-08",
-          "event": "Sprint Final",
-          "rank": 12,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Harbin",
-          "category": "FIS",
-          "discipline": "Sprint Final",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-08",
           "event": "Sprint Qualification",
           "rank": 12,
           "rank_status": null,
@@ -15604,6 +15604,17 @@
           "place": "Harbin",
           "category": "FIS",
           "discipline": "Sprint Qualification",
+          "cup_points": null
+        },
+        {
+          "date": "2025-02-08",
+          "event": "Sprint Final",
+          "rank": 12,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Harbin",
+          "category": "FIS",
+          "discipline": "Sprint Final",
           "cup_points": null
         },
         {
@@ -15671,17 +15682,6 @@
           "category": "National Championships",
           "discipline": "Interval Start",
           "cup_points": null
-        },
-        {
-          "date": "2024-12-17",
-          "event": "Interval Start",
-          "rank": 2,
-          "rank_status": null,
-          "points": 84.96,
-          "place": "Alpensia Cross-Country Center",
-          "category": "Far East Cup",
-          "discipline": "Interval Start",
-          "cup_points": 80.0
         }
       ]
     },
@@ -15697,7 +15697,7 @@
       "team": "Cross Country Team",
       "fis_code": "162284",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=162284&type=result",
-      "current_rank": 16,
+      "current_rank": 3,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -15706,6 +15706,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-08-06",
+          "event": "Interval Start",
+          "rank": 3,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Alpensia Cross-Country Center",
+          "category": "Roller Ski Asian Cup",
+          "discipline": "Interval Start",
+          "cup_points": 60.0
+        },
         {
           "date": "2026-08-05",
           "event": "Sprint Final",
@@ -16159,17 +16170,6 @@
         },
         {
           "date": "2025-02-08",
-          "event": "Sprint Final",
-          "rank": 13,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Harbin",
-          "category": "FIS",
-          "discipline": "Sprint Final",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-08",
           "event": "Sprint Qualification",
           "rank": 13,
           "rank_status": null,
@@ -16177,6 +16177,17 @@
           "place": "Harbin",
           "category": "FIS",
           "discipline": "Sprint Qualification",
+          "cup_points": null
+        },
+        {
+          "date": "2025-02-08",
+          "event": "Sprint Final",
+          "rank": 13,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Harbin",
+          "category": "FIS",
+          "discipline": "Sprint Final",
           "cup_points": null
         },
         {
@@ -16244,17 +16255,6 @@
           "category": "National Championships",
           "discipline": "Interval Start",
           "cup_points": null
-        },
-        {
-          "date": "2024-12-17",
-          "event": "Interval Start",
-          "rank": 1,
-          "rank_status": null,
-          "points": 83.7,
-          "place": "Alpensia Cross-Country Center",
-          "category": "Far East Cup",
-          "discipline": "Interval Start",
-          "cup_points": 100.0
         }
       ]
     },
@@ -16279,6 +16279,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-08-06",
+          "event": "Interval Start",
+          "rank": null,
+          "rank_status": "DNS",
+          "points": 0.0,
+          "place": "Alpensia Cross-Country Center",
+          "category": "Roller Ski Asian Cup",
+          "discipline": "Interval Start",
+          "cup_points": null
+        },
         {
           "date": "2026-08-05",
           "event": "Sprint Qualification",
@@ -16817,17 +16828,6 @@
           "category": "FIS",
           "discipline": "Mass Start",
           "cup_points": null
-        },
-        {
-          "date": "2024-03-04",
-          "event": "Mass Start",
-          "rank": 5,
-          "rank_status": null,
-          "points": 248.21,
-          "place": "Alpensia Cross-Country Center",
-          "category": "FIS",
-          "discipline": "Mass Start",
-          "cup_points": null
         }
       ]
     },
@@ -16843,7 +16843,7 @@
       "team": "Cross Country Team",
       "fis_code": "195562",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=195562&type=result",
-      "current_rank": 12,
+      "current_rank": 5,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -16852,6 +16852,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-08-06",
+          "event": "Interval Start",
+          "rank": 5,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Alpensia Cross-Country Center",
+          "category": "Roller Ski Asian Cup",
+          "discipline": "Interval Start",
+          "cup_points": 45.0
+        },
         {
           "date": "2026-08-05",
           "event": "Sprint Final",
@@ -17388,17 +17399,6 @@
           "points": 209.77,
           "place": "Bruksvallarna",
           "category": "FIS",
-          "discipline": "Interval Start",
-          "cup_points": null
-        },
-        {
-          "date": "2024-09-15",
-          "event": "Interval Start",
-          "rank": 46,
-          "rank_status": null,
-          "points": 219.01,
-          "place": "Kijimadaira",
-          "category": "Roller Ski",
           "discipline": "Interval Start",
           "cup_points": null
         }
