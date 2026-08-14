@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-08-13T18:48:22.613643",
+    "last_updated": "2026-08-14T18:41:01.628884",
     "total_athletes": 43
   },
   "athletes": [
@@ -22583,11 +22583,11 @@
       },
       "recent_results": [
         {
-          "date": "2026-08-14",
+          "date": "2026-08-13",
           "event": "Slalom",
-          "rank": null,
-          "rank_status": "DNF2",
-          "points": 0.0,
+          "rank": 7,
+          "rank_status": null,
+          "points": 88.28,
           "place": "Treble Cone",
           "category": "FIS",
           "discipline": "Slalom",
@@ -22596,8 +22596,8 @@
         {
           "date": "2026-08-13",
           "event": "Slalom",
-          "rank": 7,
-          "rank_status": null,
+          "rank": null,
+          "rank_status": "DNF2",
           "points": 0.0,
           "place": "Treble Cone",
           "category": "FIS",
