@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-08-25T18:23:55.105566",
+    "last_updated": "2026-08-26T19:30:01.875094",
     "total_athletes": 43
   },
   "athletes": [
@@ -11233,6 +11233,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-08-26",
+          "event": "Big Air",
+          "rank": 12,
+          "rank_status": null,
+          "points": 12.3,
+          "place": "Thredbo",
+          "category": "Australian New Zealand Cup",
+          "discipline": "Big Air",
+          "cup_points": 22.0
+        },
+        {
           "date": "2026-03-21",
           "event": "Slopestyle",
           "rank": 12,
@@ -11769,17 +11780,6 @@
           "place": "Bakuriani",
           "category": "Qualification",
           "discipline": "Big Air",
-          "cup_points": null
-        },
-        {
-          "date": "2023-02-27",
-          "event": "Slopestyle",
-          "rank": 30,
-          "rank_status": null,
-          "points": 84.6,
-          "place": "Bakuriani",
-          "category": "World Championships",
-          "discipline": "Slopestyle",
           "cup_points": null
         }
       ]
