@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-08-29T20:09:51.327300",
+    "last_updated": "2026-08-30T20:17:31.170043",
     "total_athletes": 43
   },
   "athletes": [
@@ -11237,7 +11237,7 @@
           "event": "Slopestyle",
           "rank": 17,
           "rank_status": null,
-          "points": 0.0,
+          "points": 0.1,
           "place": "Thredbo",
           "category": "Australian New Zealand Cup",
           "discipline": "Slopestyle",
