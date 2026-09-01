@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-08-31T22:11:05.185381",
+    "last_updated": "2026-09-01T20:18:10.191552",
     "total_athletes": 43
   },
   "athletes": [
@@ -20854,7 +20854,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "203604",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=203604&type=result",
-      "current_rank": 2,
+      "current_rank": 11,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -20863,6 +20863,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-09-01",
+          "event": "Giant Slalom",
+          "rank": 11,
+          "rank_status": null,
+          "points": 52.8,
+          "place": "Coronet Peak",
+          "category": "National Championships",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-03-28",
           "event": "Slalom",
@@ -21401,17 +21412,6 @@
           "category": "Far East Cup",
           "discipline": "Slalom",
           "cup_points": 18.0
-        },
-        {
-          "date": "2025-02-26",
-          "event": "Giant Slalom",
-          "rank": null,
-          "rank_status": "DSQ2",
-          "points": 0.0,
-          "place": "Sugadairakohgen",
-          "category": "Far East Cup",
-          "discipline": "Giant Slalom",
-          "cup_points": null
         }
       ]
     },
