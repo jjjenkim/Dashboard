@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-01T20:18:10.191552",
+    "last_updated": "2026-09-02T20:17:01.123049",
     "total_athletes": 43
   },
   "athletes": [
@@ -20864,6 +20864,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-09-02",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNS2",
+          "points": 0.0,
+          "place": "Coronet Peak",
+          "category": "National Championships",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-09-01",
           "event": "Giant Slalom",
           "rank": 11,
@@ -21401,17 +21412,6 @@
           "category": "Far East Cup",
           "discipline": "Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2025-02-27",
-          "event": "Slalom",
-          "rank": 14,
-          "rank_status": null,
-          "points": 32.98,
-          "place": "Sugadairakohgen",
-          "category": "Far East Cup",
-          "discipline": "Slalom",
-          "cup_points": 18.0
         }
       ]
     },
