@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-04T20:01:42.820379",
+    "last_updated": "2026-09-05T19:42:40.855576",
     "total_athletes": 43
   },
   "athletes": [
@@ -8038,7 +8038,7 @@
       "team": "Snowboard Cross Team",
       "fis_code": "229485",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=229485&type=result",
-      "current_rank": 5,
+      "current_rank": 1,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -8047,6 +8047,28 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-09-04",
+          "event": "Snowboard Cross",
+          "rank": 1,
+          "rank_status": null,
+          "points": 68.3,
+          "place": "Corralco (CHI)",
+          "category": "South American Cup",
+          "discipline": "Snowboard Cross",
+          "cup_points": 100.0
+        },
+        {
+          "date": "2026-09-04",
+          "event": "Snowboard Cross",
+          "rank": 1,
+          "rank_status": null,
+          "points": 58.8,
+          "place": "Corralco (CHI)",
+          "category": "South American Cup",
+          "discipline": "Snowboard Cross",
+          "cup_points": 100.0
+        },
         {
           "date": "2026-04-02",
           "event": "Snowboard Cross",
@@ -8574,28 +8596,6 @@
           "category": "World Cup",
           "discipline": "Snowboard Cross",
           "cup_points": 11.0
-        },
-        {
-          "date": "2024-02-02",
-          "event": "Snowboard Cross",
-          "rank": 22,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Gudauri",
-          "category": "Qualification",
-          "discipline": "Snowboard Cross",
-          "cup_points": null
-        },
-        {
-          "date": "2023-12-17",
-          "event": "Snowboard Cross Team",
-          "rank": 16,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Cervinia",
-          "category": "World Cup",
-          "discipline": "Snowboard Cross Team",
-          "cup_points": 17.0
         }
       ]
     },
