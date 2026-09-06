@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-05T19:42:40.855576",
+    "last_updated": "2026-09-06T19:45:23.117584",
     "total_athletes": 43
   },
   "athletes": [
@@ -20864,6 +20864,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-09-06",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Coronet Peak",
+          "category": "Australian New Zealand Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-09-02",
           "event": "Slalom",
           "rank": null,
@@ -21398,17 +21409,6 @@
           "rank_status": "DSQ2",
           "points": 0.0,
           "place": "Hakuba",
-          "category": "Far East Cup",
-          "discipline": "Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-28",
-          "event": "Slalom",
-          "rank": null,
-          "rank_status": "DNF2",
-          "points": 0.0,
-          "place": "Sugadairakohgen",
           "category": "Far East Cup",
           "discipline": "Slalom",
           "cup_points": null
