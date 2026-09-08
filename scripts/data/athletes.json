@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-07T20:55:06.933477",
+    "last_updated": "2026-09-08T20:28:54.486475",
     "total_athletes": 43
   },
   "athletes": [
@@ -20854,7 +20854,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "203604",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=203604&type=result",
-      "current_rank": 11,
+      "current_rank": 23,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -20863,6 +20863,28 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-09-08",
+          "event": "Giant Slalom",
+          "rank": 23,
+          "rank_status": null,
+          "points": 57.62,
+          "place": "Coronet Peak",
+          "category": "Australian New Zealand Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": 8.0
+        },
+        {
+          "date": "2026-09-08",
+          "event": "Giant Slalom",
+          "rank": 29,
+          "rank_status": null,
+          "points": 48.94,
+          "place": "Coronet Peak",
+          "category": "Australian New Zealand Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": 2.0
+        },
         {
           "date": "2026-09-06",
           "event": "Slalom",
@@ -21389,28 +21411,6 @@
           "place": "Sugadairakohgen Kogen",
           "category": "National Championships",
           "discipline": "Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-03-07",
-          "event": "Slalom",
-          "rank": null,
-          "rank_status": "DSQ1",
-          "points": 0.0,
-          "place": "Hakuba",
-          "category": "Far East Cup",
-          "discipline": "Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-03-06",
-          "event": "Slalom",
-          "rank": null,
-          "rank_status": "DSQ2",
-          "points": 0.0,
-          "place": "Hakuba",
-          "category": "Far East Cup",
-          "discipline": "Slalom",
           "cup_points": null
         }
       ]
