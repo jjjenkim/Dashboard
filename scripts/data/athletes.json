@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-22T20:39:16.499412",
+    "last_updated": "2026-09-23T20:50:43.914789",
     "total_athletes": 43
   },
   "athletes": [
@@ -15212,13 +15212,13 @@
         },
         {
           "date": "2026-02-18",
-          "event": "Team Sprint",
+          "event": "Team Sprint Qualification",
           "rank": 23,
           "rank_status": null,
           "points": 0.0,
           "place": "Milano Cortina",
           "category": "Team Sprint Qualification",
-          "discipline": "Team Sprint",
+          "discipline": "Team Sprint Qualification",
           "cup_points": null
         },
         {
@@ -15785,13 +15785,13 @@
         },
         {
           "date": "2026-02-18",
-          "event": "Team Sprint",
+          "event": "Team Sprint Qualification",
           "rank": 23,
           "rank_status": null,
           "points": 0.0,
           "place": "Milano Cortina",
           "category": "Team Sprint Qualification",
-          "discipline": "Team Sprint",
+          "discipline": "Team Sprint Qualification",
           "cup_points": null
         },
         {
