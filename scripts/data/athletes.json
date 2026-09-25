@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-09-24T20:56:36.347683",
+    "last_updated": "2026-09-25T20:52:40.997128",
     "total_athletes": 43
   },
   "athletes": [
@@ -11223,7 +11223,7 @@
       "team": "Snowboard Park Team",
       "fis_code": "239111",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=SB&competitorid=239111&type=result",
-      "current_rank": 17,
+      "current_rank": 8,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -11232,6 +11232,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-09-25",
+          "event": "Slopestyle",
+          "rank": 8,
+          "rank_status": null,
+          "points": 56.4,
+          "place": "The Remarkables",
+          "category": "Australian New Zealand Cup",
+          "discipline": "Slopestyle",
+          "cup_points": 32.0
+        },
         {
           "date": "2026-08-27",
           "event": "Slopestyle",
@@ -11769,17 +11780,6 @@
           "place": "Laax",
           "category": "European Cup Premium",
           "discipline": "Slopestyle",
-          "cup_points": null
-        },
-        {
-          "date": "2023-03-04",
-          "event": "Big Air",
-          "rank": 34,
-          "rank_status": null,
-          "points": 43.2,
-          "place": "Bakuriani",
-          "category": "World Championships",
-          "discipline": "Big Air",
           "cup_points": null
         }
       ]
