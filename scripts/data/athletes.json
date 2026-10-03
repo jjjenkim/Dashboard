@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-02T21:34:46.286415",
+    "last_updated": "2026-10-03T20:20:53.333820",
     "total_athletes": 43
   },
   "athletes": [
@@ -14551,7 +14551,7 @@
       "team": "Cross Country Team",
       "fis_code": "154934",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=154934&type=result",
-      "current_rank": 1,
+      "current_rank": 5,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -14560,6 +14560,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-10-03",
+          "event": "Interval Start",
+          "rank": 5,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Kaeng Krachan Circuit",
+          "category": "FIS Roller Ski Asian Championships",
+          "discipline": "Interval Start",
+          "cup_points": 45.0
+        },
         {
           "date": "2026-08-07",
           "event": "Mass Start",
@@ -15098,17 +15109,6 @@
           "category": "Far East Cup",
           "discipline": "Interval Start",
           "cup_points": 15.0
-        },
-        {
-          "date": "2024-09-15",
-          "event": "Interval Start",
-          "rank": 92,
-          "rank_status": null,
-          "points": 145.24,
-          "place": "Kijimadaira",
-          "category": "Roller Ski",
-          "discipline": "Interval Start",
-          "cup_points": null
         }
       ]
     },
