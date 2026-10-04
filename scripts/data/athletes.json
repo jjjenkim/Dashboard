@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-03T20:20:53.333820",
+    "last_updated": "2026-10-04T20:38:54.550350",
     "total_athletes": 43
   },
   "athletes": [
@@ -14561,6 +14561,28 @@
       },
       "recent_results": [
         {
+          "date": "2026-10-04",
+          "event": "Sprint Final",
+          "rank": 5,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Kaeng Krachan Circuit",
+          "category": "FIS Roller Ski Asian Championships",
+          "discipline": "Sprint Final",
+          "cup_points": 45.0
+        },
+        {
+          "date": "2026-10-04",
+          "event": "Sprint Qualification",
+          "rank": 6,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Kaeng Krachan Circuit",
+          "category": "Roller Ski Sprint Qualification Asia Cup",
+          "discipline": "Sprint Qualification",
+          "cup_points": 5.0
+        },
+        {
           "date": "2026-10-03",
           "event": "Interval Start",
           "rank": 5,
@@ -15087,28 +15109,6 @@
           "category": "National Championships",
           "discipline": "Interval Start",
           "cup_points": null
-        },
-        {
-          "date": "2024-12-17",
-          "event": "Interval Start",
-          "rank": 16,
-          "rank_status": null,
-          "points": 116.63,
-          "place": "Alpensia Cross-Country Center",
-          "category": "Far East Cup",
-          "discipline": "Interval Start",
-          "cup_points": 15.0
-        },
-        {
-          "date": "2024-12-16",
-          "event": "Interval Start",
-          "rank": 16,
-          "rank_status": null,
-          "points": 116.26,
-          "place": "Alpensia Cross-Country Center",
-          "category": "Far East Cup",
-          "discipline": "Interval Start",
-          "cup_points": 15.0
         }
       ]
     },
