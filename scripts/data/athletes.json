@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-06T22:00:57.185872",
+    "last_updated": "2026-10-07T22:26:43.564909",
     "total_athletes": 43
   },
   "athletes": [
@@ -9749,9 +9749,9 @@
       "id": "KOR018",
       "name_ko": "김건희",
       "name_en": "Geonhui KIM",
-      "birth_date": "2000-01-01",
-      "birth_year": 2000,
-      "age": 26,
+      "birth_date": "2008-07-08",
+      "birth_year": 2008,
+      "age": 18,
       "sport": "snowboard_park",
       "sport_display": "스노보드 파크",
       "team": "Snowboard Park Team",
@@ -14551,7 +14551,7 @@
       "team": "Cross Country Team",
       "fis_code": "154934",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=154934&type=result",
-      "current_rank": 3,
+      "current_rank": 4,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -14560,6 +14560,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-10-07",
+          "event": "Mass Start",
+          "rank": 4,
+          "rank_status": null,
+          "points": 92.11,
+          "place": "Kaeng Krachan Circuit",
+          "category": "FIS Roller Ski Asian Championships",
+          "discipline": "Mass Start",
+          "cup_points": 50.0
+        },
         {
           "date": "2026-10-06",
           "event": "Team Sprint",
@@ -15097,17 +15108,6 @@
           "place": "Alpensia Cross-Country Center",
           "category": "National Championships",
           "discipline": "Sprint Final",
-          "cup_points": null
-        },
-        {
-          "date": "2025-01-08",
-          "event": "Interval Start",
-          "rank": 5,
-          "rank_status": null,
-          "points": 133.99,
-          "place": "Alpensia Cross-Country Center",
-          "category": "National Championships",
-          "discipline": "Interval Start",
           "cup_points": null
         }
       ]
