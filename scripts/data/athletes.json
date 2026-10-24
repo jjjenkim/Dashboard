@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-10-23T20:48:11.219689",
+    "last_updated": "2026-10-24T19:58:35.971613",
     "total_athletes": 43
   },
   "athletes": [
@@ -9176,9 +9176,9 @@
       "id": "KOR017",
       "name_ko": "이지오",
       "name_en": "Jio LEE",
-      "birth_date": "2000-01-01",
-      "birth_year": 2000,
-      "age": 26,
+      "birth_date": "2008-10-24",
+      "birth_year": 2008,
+      "age": 18,
       "sport": "snowboard_park",
       "sport_display": "스노보드 파크",
       "team": "Snowboard Park Team",
@@ -21437,6 +21437,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-10-24",
+          "event": "Giant Slalom",
+          "rank": null,
+          "rank_status": "DNQ",
+          "points": 0.0,
+          "place": "Soelden",
+          "category": "World Cup",
+          "discipline": "Giant Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-03-12",
           "event": "Slalom",
           "rank": 1,
@@ -21974,17 +21985,6 @@
           "category": "Far East Cup",
           "discipline": "Slalom",
           "cup_points": 50.0
-        },
-        {
-          "date": "2024-12-11",
-          "event": "Giant Slalom",
-          "rank": 6,
-          "rank_status": null,
-          "points": 29.95,
-          "place": "Wanlong Ski Resort",
-          "category": "Far East Cup",
-          "discipline": "Giant Slalom",
-          "cup_points": 40.0
         }
       ]
     },
