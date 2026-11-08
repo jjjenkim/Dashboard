@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-07T21:13:36.969759",
+    "last_updated": "2026-11-08T21:28:31.590196",
     "total_athletes": 43
   },
   "athletes": [
@@ -17426,6 +17426,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-11-08",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF2",
+          "points": 0.0,
+          "place": "Storklinten",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-11-07",
           "event": "Slalom",
           "rank": 18,
@@ -17963,17 +17974,6 @@
           "category": "World Cup",
           "discipline": "Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2024-12-13",
-          "event": "Slalom",
-          "rank": 1,
-          "rank_status": null,
-          "points": 17.15,
-          "place": "Wanlong Ski Resrort",
-          "category": "Far East Cup",
-          "discipline": "Slalom",
-          "cup_points": 100.0
         }
       ]
     },
@@ -17998,6 +17998,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-11-08",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Storklinten",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-11-07",
           "event": "Slalom",
@@ -18536,17 +18547,6 @@
           "category": "Far East Cup",
           "discipline": "Slalom",
           "cup_points": 29.0
-        },
-        {
-          "date": "2024-12-12",
-          "event": "Slalom",
-          "rank": 12,
-          "rank_status": null,
-          "points": 30.24,
-          "place": "Wanlong Ski Resrort",
-          "category": "Far East Cup",
-          "discipline": "Slalom",
-          "cup_points": 22.0
         }
       ]
     },
@@ -19145,6 +19145,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-11-08",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF2",
+          "points": 0.0,
+          "place": "Storklinten",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-11-07",
           "event": "Slalom",
           "rank": null,
@@ -19681,17 +19692,6 @@
           "place": "Yongpyong Resort",
           "category": "FIS",
           "discipline": "Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-03-12",
-          "event": "Slalom",
-          "rank": null,
-          "rank_status": "DNF2",
-          "points": 0.0,
-          "place": "Yongpyong Resort",
-          "category": "FIS",
-          "discipline": "Slalom",
           "cup_points": null
         }
       ]
@@ -20291,6 +20291,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-11-08",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF2",
+          "points": 0.0,
+          "place": "Storklinten",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-11-07",
           "event": "Slalom",
           "rank": null,
@@ -20828,17 +20839,6 @@
           "category": "Far East Cup",
           "discipline": "Giant Slalom",
           "cup_points": 13.0
-        },
-        {
-          "date": "2025-02-03",
-          "event": "Giant Slalom",
-          "rank": null,
-          "rank_status": "DNF1",
-          "points": 0.0,
-          "place": "Yongpyong Resort",
-          "category": "Far East Cup",
-          "discipline": "Giant Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -20863,6 +20863,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-11-08",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Storklinten",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-11-07",
           "event": "Slalom",
@@ -21401,17 +21412,6 @@
           "category": "National Championships",
           "discipline": "Giant Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2025-03-12",
-          "event": "Slalom",
-          "rank": null,
-          "rank_status": "DNF1",
-          "points": 0.0,
-          "place": "Sugadairakohgen",
-          "category": "National Championships",
-          "discipline": "Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -21427,7 +21427,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "177571",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=177571&type=result",
-      "current_rank": 10,
+      "current_rank": 9,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -21436,6 +21436,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-11-08",
+          "event": "Slalom",
+          "rank": 9,
+          "rank_status": null,
+          "points": 49.6,
+          "place": "Storklinten",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-11-07",
           "event": "Slalom",
@@ -21973,17 +21984,6 @@
           "place": "Yongpyong Resort",
           "category": "National Championships",
           "discipline": "Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2024-12-13",
-          "event": "Slalom",
-          "rank": null,
-          "rank_status": "DNF1",
-          "points": 0.0,
-          "place": "Wanlong Ski Resrort",
-          "category": "Far East Cup",
-          "discipline": "Slalom",
           "cup_points": null
         }
       ]
@@ -22573,7 +22573,7 @@
       "team": "Alpine Skiing Team",
       "fis_code": "261321",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=261321&type=result",
-      "current_rank": 22,
+      "current_rank": 17,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -22582,6 +22582,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-11-08",
+          "event": "Slalom",
+          "rank": 17,
+          "rank_status": null,
+          "points": 75.13,
+          "place": "Storklinten",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-11-07",
           "event": "Slalom",
@@ -22864,7 +22875,7 @@
           "rank_status": "DNF2",
           "points": 0.0,
           "place": "Yongpyong Resorts",
-          "category": "National Championships",
+          "category": "FIS",
           "discipline": "Slalom",
           "cup_points": null
         },
@@ -22875,7 +22886,7 @@
           "rank_status": "DNF2",
           "points": 0.0,
           "place": "Yongpyong Resorts",
-          "category": "FIS",
+          "category": "National Championships",
           "discipline": "Slalom",
           "cup_points": null
         },
@@ -23117,17 +23128,6 @@
           "rank_status": null,
           "points": 46.26,
           "place": "Nozawa Onsen",
-          "category": "FIS",
-          "discipline": "Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-03-24",
-          "event": "Giant Slalom",
-          "rank": 17,
-          "rank_status": null,
-          "points": 58.6,
-          "place": "Nukabira Gensenkyo",
           "category": "FIS",
           "discipline": "Giant Slalom",
           "cup_points": null
