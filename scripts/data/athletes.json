@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-14T21:48:29.433836",
+    "last_updated": "2026-11-15T22:16:39.737684",
     "total_athletes": 43
   },
   "athletes": [
@@ -17426,6 +17426,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-11-15",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNQ",
+          "points": 0.0,
+          "place": "Levi",
+          "category": "World Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-11-08",
           "event": "Slalom",
           "rank": null,
@@ -17963,17 +17974,6 @@
           "category": "World Cup",
           "discipline": "Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2025-01-08",
-          "event": "Slalom",
-          "rank": null,
-          "rank_status": "DNF1",
-          "points": 0.0,
-          "place": "Madonna di Campiglio",
-          "category": "World Cup",
-          "discipline": "Slalom",
-          "cup_points": null
         }
       ]
     },
@@ -17998,6 +17998,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-11-15",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Levi",
+          "category": "World Cup",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-11-08",
           "event": "Slalom",
@@ -18536,17 +18547,6 @@
           "category": "FIS",
           "discipline": "Slalom",
           "cup_points": null
-        },
-        {
-          "date": "2024-12-13",
-          "event": "Slalom",
-          "rank": 9,
-          "rank_status": null,
-          "points": 30.16,
-          "place": "Wanlong Ski Resrort",
-          "category": "Far East Cup",
-          "discipline": "Slalom",
-          "cup_points": 29.0
         }
       ]
     },
@@ -19145,6 +19145,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-11-15",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Kaabdalis",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-11-14",
           "event": "Slalom",
           "rank": null,
@@ -19680,17 +19691,6 @@
           "points": 28.56,
           "place": "Nukabira Gensenkyo",
           "category": "National Junior Championships",
-          "discipline": "Giant Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-03-14",
-          "event": "Giant Slalom",
-          "rank": 4,
-          "rank_status": null,
-          "points": 44.3,
-          "place": "Yongpyong Resort",
-          "category": "FIS",
           "discipline": "Giant Slalom",
           "cup_points": null
         }
@@ -20291,6 +20291,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-11-15",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Kaabdalis",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-11-14",
           "event": "Slalom",
           "rank": null,
@@ -20828,17 +20839,6 @@
           "category": "Far East Cup",
           "discipline": "Slalom",
           "cup_points": 36.0
-        },
-        {
-          "date": "2025-02-06",
-          "event": "Slalom",
-          "rank": 5,
-          "rank_status": null,
-          "points": 24.45,
-          "place": "Alpensia Resort",
-          "category": "Far East Cup",
-          "discipline": "Slalom",
-          "cup_points": 45.0
         }
       ]
     },
@@ -20863,6 +20863,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-11-15",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Kaabdalis",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
         {
           "date": "2026-11-14",
           "event": "Slalom",
@@ -21401,17 +21412,6 @@
           "category": "Australian New Zealand Cup",
           "discipline": "Slalom",
           "cup_points": 15.0
-        },
-        {
-          "date": "2025-08-18",
-          "event": "Giant Slalom",
-          "rank": 17,
-          "rank_status": null,
-          "points": 46.35,
-          "place": "Mount Hutt",
-          "category": "Australian New Zealand Cup",
-          "discipline": "Giant Slalom",
-          "cup_points": 14.0
         }
       ]
     },
@@ -22583,6 +22583,17 @@
       },
       "recent_results": [
         {
+          "date": "2026-11-15",
+          "event": "Slalom",
+          "rank": null,
+          "rank_status": "DNF1",
+          "points": 0.0,
+          "place": "Kaabdalis",
+          "category": "FIS",
+          "discipline": "Slalom",
+          "cup_points": null
+        },
+        {
           "date": "2026-11-14",
           "event": "Slalom",
           "rank": 22,
@@ -23119,17 +23130,6 @@
           "place": "Nozawa Onsen",
           "category": "FIS",
           "discipline": "Slalom",
-          "cup_points": null
-        },
-        {
-          "date": "2025-04-08",
-          "event": "Giant Slalom",
-          "rank": 10,
-          "rank_status": null,
-          "points": 46.2,
-          "place": "Nozawa Onsen",
-          "category": "FIS",
-          "discipline": "Giant Slalom",
           "cup_points": null
         }
       ]
