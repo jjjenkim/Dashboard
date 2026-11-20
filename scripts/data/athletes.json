@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-20T00:00:54.060149",
+    "last_updated": "2026-11-20T23:29:42.250341",
     "total_athletes": 43
   },
   "athletes": [
@@ -13978,7 +13978,7 @@
       "team": "Cross Country Team",
       "fis_code": "136287",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=136287&type=result",
-      "current_rank": 7,
+      "current_rank": 128,
       "best_rank": 2,
       "season_starts": 50,
       "medals": {
@@ -13987,6 +13987,28 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-11-20",
+          "event": "Sprint Final",
+          "rank": 128,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Bruksvallarna",
+          "category": "FIS",
+          "discipline": "Sprint Final",
+          "cup_points": null
+        },
+        {
+          "date": "2026-11-20",
+          "event": "Sprint Qualification",
+          "rank": 129,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Bruksvallarna",
+          "category": "FIS",
+          "discipline": "Sprint Qualification",
+          "cup_points": null
+        },
         {
           "date": "2026-08-07",
           "event": "Mass Start",
@@ -14514,28 +14536,6 @@
           "category": "FIS",
           "discipline": "Interval Start",
           "cup_points": null
-        },
-        {
-          "date": "2024-11-23",
-          "event": "Interval Start",
-          "rank": 156,
-          "rank_status": null,
-          "points": 172.25,
-          "place": "Bruksvallarna",
-          "category": "FIS",
-          "discipline": "Interval Start",
-          "cup_points": null
-        },
-        {
-          "date": "2024-09-15",
-          "event": "Interval Start",
-          "rank": 41,
-          "rank_status": null,
-          "points": 107.56,
-          "place": "Kijimadaira",
-          "category": "Roller Ski",
-          "discipline": "Interval Start",
-          "cup_points": null
         }
       ]
     },
@@ -14551,7 +14551,7 @@
       "team": "Cross Country Team",
       "fis_code": "154934",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=CC&competitorid=154934&type=result",
-      "current_rank": 4,
+      "current_rank": 116,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -14560,6 +14560,28 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-11-20",
+          "event": "Sprint Final",
+          "rank": 116,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Bruksvallarna",
+          "category": "FIS",
+          "discipline": "Sprint Final",
+          "cup_points": null
+        },
+        {
+          "date": "2026-11-20",
+          "event": "Sprint Qualification",
+          "rank": 117,
+          "rank_status": null,
+          "points": 0.0,
+          "place": "Bruksvallarna",
+          "category": "FIS",
+          "discipline": "Sprint Qualification",
+          "cup_points": null
+        },
         {
           "date": "2026-10-07",
           "event": "Mass Start",
@@ -15087,28 +15109,6 @@
           "category": "Far East Cup",
           "discipline": "Interval Start",
           "cup_points": 40.0
-        },
-        {
-          "date": "2025-01-09",
-          "event": "Sprint Qualification",
-          "rank": 7,
-          "rank_status": null,
-          "points": 451.8,
-          "place": "Alpensia Cross-Country Center",
-          "category": "National Championships",
-          "discipline": "Sprint Qualification",
-          "cup_points": null
-        },
-        {
-          "date": "2025-01-09",
-          "event": "Sprint Final",
-          "rank": 16,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Alpensia Cross-Country Center",
-          "category": "National Championships",
-          "discipline": "Sprint Final",
-          "cup_points": null
         }
       ]
     },
