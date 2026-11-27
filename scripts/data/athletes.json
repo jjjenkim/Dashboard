@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-26T01:19:02.007090",
+    "last_updated": "2026-11-27T01:17:12.009640",
     "total_athletes": 43
   },
   "athletes": [
@@ -6299,11 +6299,11 @@
           "event": "Parallel Giant Slalom",
           "rank": 28,
           "rank_status": null,
-          "points": 40.0,
+          "points": 0.0,
           "place": "Yanqing (NASC)",
-          "category": "World Cup",
+          "category": "Qualification",
           "discipline": "Parallel Giant Slalom",
-          "cup_points": 3.0
+          "cup_points": null
         }
       ]
     },
@@ -12181,17 +12181,6 @@
         },
         {
           "date": "2022-02-07",
-          "event": "Slopestyle",
-          "rank": 1,
-          "rank_status": null,
-          "points": 10.0,
-          "place": "Yongpyong Resort",
-          "category": "FIS",
-          "discipline": "Slopestyle",
-          "cup_points": null
-        },
-        {
-          "date": "2022-02-07",
           "event": "Big Air",
           "rank": 1,
           "rank_status": null,
@@ -12199,6 +12188,17 @@
           "place": "Yongpyong Resort",
           "category": "FIS",
           "discipline": "Big Air",
+          "cup_points": null
+        },
+        {
+          "date": "2022-02-07",
+          "event": "Slopestyle",
+          "rank": 1,
+          "rank_status": null,
+          "points": 10.0,
+          "place": "Yongpyong Resort",
+          "category": "FIS",
+          "discipline": "Slopestyle",
           "cup_points": null
         }
       ]
@@ -15608,17 +15608,6 @@
         },
         {
           "date": "2025-02-08",
-          "event": "Sprint Qualification",
-          "rank": 12,
-          "rank_status": null,
-          "points": 400.15,
-          "place": "Harbin",
-          "category": "FIS",
-          "discipline": "Sprint Qualification",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-08",
           "event": "Sprint Final",
           "rank": 12,
           "rank_status": null,
@@ -15626,6 +15615,17 @@
           "place": "Harbin",
           "category": "FIS",
           "discipline": "Sprint Final",
+          "cup_points": null
+        },
+        {
+          "date": "2025-02-08",
+          "event": "Sprint Qualification",
+          "rank": 12,
+          "rank_status": null,
+          "points": 400.15,
+          "place": "Harbin",
+          "category": "FIS",
+          "discipline": "Sprint Qualification",
           "cup_points": null
         },
         {
@@ -15652,17 +15652,6 @@
         },
         {
           "date": "2025-01-09",
-          "event": "Sprint Qualification",
-          "rank": 1,
-          "rank_status": null,
-          "points": 468.37,
-          "place": "Alpensia Cross-Country Center",
-          "category": "National Championships",
-          "discipline": "Sprint Qualification",
-          "cup_points": null
-        },
-        {
-          "date": "2025-01-09",
           "event": "Sprint Final",
           "rank": 1,
           "rank_status": null,
@@ -15670,6 +15659,17 @@
           "place": "Alpensia Cross-Country Center",
           "category": "National Championships",
           "discipline": "Sprint Final",
+          "cup_points": null
+        },
+        {
+          "date": "2025-01-09",
+          "event": "Sprint Qualification",
+          "rank": 1,
+          "rank_status": null,
+          "points": 468.37,
+          "place": "Alpensia Cross-Country Center",
+          "category": "National Championships",
+          "discipline": "Sprint Qualification",
           "cup_points": null
         },
         {
@@ -16192,17 +16192,6 @@
         },
         {
           "date": "2025-02-08",
-          "event": "Sprint Qualification",
-          "rank": 13,
-          "rank_status": null,
-          "points": 424.84,
-          "place": "Harbin",
-          "category": "FIS",
-          "discipline": "Sprint Qualification",
-          "cup_points": null
-        },
-        {
-          "date": "2025-02-08",
           "event": "Sprint Final",
           "rank": 13,
           "rank_status": null,
@@ -16210,6 +16199,17 @@
           "place": "Harbin",
           "category": "FIS",
           "discipline": "Sprint Final",
+          "cup_points": null
+        },
+        {
+          "date": "2025-02-08",
+          "event": "Sprint Qualification",
+          "rank": 13,
+          "rank_status": null,
+          "points": 424.84,
+          "place": "Harbin",
+          "category": "FIS",
+          "discipline": "Sprint Qualification",
           "cup_points": null
         },
         {
