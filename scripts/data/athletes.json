@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-11-27T01:17:12.009640",
+    "last_updated": "2026-11-28T00:50:24.104660",
     "total_athletes": 43
   },
   "athletes": [
@@ -2881,7 +2881,7 @@
       "team": "Mogul Ski Team",
       "fis_code": "229480",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=FS&competitorid=229480&type=result",
-      "current_rank": 31,
+      "current_rank": 3,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -2890,6 +2890,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-11-27",
+          "event": "Moguls",
+          "rank": 3,
+          "rank_status": null,
+          "points": 120.0,
+          "place": "Levi",
+          "category": "FIS",
+          "discipline": "Moguls",
+          "cup_points": null
+        },
         {
           "date": "2026-03-01",
           "event": "Dual Moguls",
@@ -3428,17 +3439,6 @@
           "category": "World Cup",
           "discipline": "Moguls",
           "cup_points": 14.0
-        },
-        {
-          "date": "2023-12-14",
-          "event": "Moguls",
-          "rank": 17,
-          "rank_status": null,
-          "points": 0.0,
-          "place": "Alpe d'Huez",
-          "category": "Qualification",
-          "discipline": "Moguls",
-          "cup_points": null
         }
       ]
     },
@@ -3463,6 +3463,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-11-27",
+          "event": "Moguls",
+          "rank": 1,
+          "rank_status": null,
+          "points": 200.0,
+          "place": "Levi",
+          "category": "FIS",
+          "discipline": "Moguls",
+          "cup_points": null
+        },
         {
           "date": "2026-02-23",
           "event": "Moguls",
@@ -4001,17 +4012,6 @@
           "category": "World Cup",
           "discipline": "Dual Moguls",
           "cup_points": null
-        },
-        {
-          "date": "2023-12-08",
-          "event": "Moguls",
-          "rank": 37,
-          "rank_status": null,
-          "points": 19.4,
-          "place": "Idre Fjäll",
-          "category": "World Cup",
-          "discipline": "Moguls",
-          "cup_points": null
         }
       ]
     },
@@ -4027,7 +4027,7 @@
       "team": "Mogul Ski Team",
       "fis_code": "258758",
       "fis_url": "https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=FS&competitorid=258758&type=result",
-      "current_rank": 1,
+      "current_rank": 4,
       "best_rank": 1,
       "season_starts": 50,
       "medals": {
@@ -4036,6 +4036,17 @@
         "bronze": 0
       },
       "recent_results": [
+        {
+          "date": "2026-11-27",
+          "event": "Moguls",
+          "rank": 4,
+          "rank_status": null,
+          "points": 65.0,
+          "place": "Levi",
+          "category": "FIS",
+          "discipline": "Moguls",
+          "cup_points": null
+        },
         {
           "date": "2026-02-23",
           "event": "Moguls",
@@ -4574,17 +4585,6 @@
           "category": "World Cup",
           "discipline": "Dual Moguls",
           "cup_points": 6.0
-        },
-        {
-          "date": "2022-12-16",
-          "event": "Moguls",
-          "rank": 21,
-          "rank_status": null,
-          "points": 100.0,
-          "place": "Alpe d'Huez",
-          "category": "World Cup",
-          "discipline": "Moguls",
-          "cup_points": 10.0
         }
       ]
     },
